@@ -6,6 +6,74 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 gsap.registerPlugin(ScrollTrigger);
 const $ = (selector, root = document) => root.querySelector(selector);
 const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
+
+
+// Consent-gated analytics bridge. A hotel-approved consent manager must set
+// window.kaldanAnalyticsConsent = true and load the site's GTM/GA4 dataLayer
+// only after the visitor has granted analytics consent. No form values or PII
+// are included in these events.
+const analyticsAllowed = () => window.kaldanAnalyticsConsent === true && Array.isArray(window.dataLayer);
+function trackKaldanEvent(eventName, parameters = {}) {
+  if (!analyticsAllowed()) return;
+  window.dataLayer.push({ event: eventName, page_path: location.pathname, ...parameters });
+}
+
+document.addEventListener('click', event => {
+  if (!analyticsAllowed()) return;
+  const control = event.target.closest('a[href], button');
+  if (!control) return;
+
+  const label = (control.getAttribute('aria-label') || control.textContent || '')
+    .replace(/\s+/g, ' ').trim().slice(0, 90);
+  const href = control.getAttribute('href');
+  let destination = null;
+  if (href) {
+    try { destination = new URL(href, location.href); } catch { /* Ignore malformed or script URLs. */ }
+  }
+  let eventName = '';
+  const parameters = { element_label: label };
+
+  if (control.matches('.reserve-button') || destination?.hostname === 'bookings.kaldanhotels.com') {
+    eventName = 'booking_start';
+  } else if (control.matches('[data-reserve]')) {
+    eventName = 'booking_assist_open';
+  } else if (control.matches('[data-experience]')) {
+    eventName = 'experience_select';
+    parameters.experience_index = Number(control.dataset.experience) + 1;
+  } else if (control.matches('[data-film]')) {
+    eventName = 'palace_film_open';
+  } else if (control.matches('[data-pause-film]')) {
+    eventName = 'hero_film_toggle';
+  } else if (control.closest('.site-header, .menu-dialog')) {
+    eventName = 'navigation_click';
+  } else if (control.matches('.button, .hero-discover') || control.classList.contains('text-link')) {
+    eventName = 'cta_click';
+  }
+
+  if (!eventName) return;
+  if (destination) {
+    parameters.destination_path = destination.origin === location.origin ? destination.pathname : destination.hostname;
+  }
+  trackKaldanEvent(eventName, parameters);
+});
+
+const trackedScrollDepths = new Set();
+let scrollTrackingScheduled = false;
+addEventListener('scroll', () => {
+  if (!analyticsAllowed() || scrollTrackingScheduled) return;
+  scrollTrackingScheduled = true;
+  requestAnimationFrame(() => {
+    const maxScroll = document.documentElement.scrollHeight - innerHeight;
+    const depth = maxScroll > 0 ? Math.round((scrollY / maxScroll) * 100) : 100;
+    [25, 50, 75, 90].forEach(threshold => {
+      if (depth >= threshold && !trackedScrollDepths.has(threshold)) {
+        trackedScrollDepths.add(threshold);
+        trackKaldanEvent('scroll_depth', { percent_scrolled: threshold });
+      }
+    });
+    scrollTrackingScheduled = false;
+  });
+}, { passive: true });
 const media = matchMedia('(prefers-reduced-motion: reduce)');
 let reduced = media.matches;
 let lenis;
@@ -258,6 +326,7 @@ $$('[data-enquiry]').forEach(form => {
       const data = await response.json();
       if (!response.ok || data.ok !== true) throw new Error(data.message || 'Online delivery is currently unavailable. Please email or call the reservations team.');
       status.textContent = data.message || 'Your enquiry was accepted for sending. This is an enquiry, not a confirmed reservation.';
+      trackKaldanEvent('generate_lead', { lead_type: interest.value || 'general' });
       form.classList.add('is-sent');
       form.reset();
     } catch (error) {

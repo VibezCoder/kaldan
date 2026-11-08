@@ -16,3 +16,198 @@
 @media(max-width:700px){:root{--gutter:24px}body{font-size:16px}.section{padding-block:75px}.eyebrow{font-size:10px;letter-spacing:.15em;margin-bottom:20px}.display{font-size:53px;line-height:1.02}.lede{font-size:18px}.section-head{display:block;margin-bottom:38px}.section-head>div:last-child:not(:first-child){margin-top:25px;max-width:none}.section-head .display{font-size:53px}.site-header{padding:0 16px;height:84px;gap:12px}.site-header.scrolled{height:72px}.brand{gap:5px}.brand-name{font-size:23px;letter-spacing:.09em}.brand-name>span{font-size:6px;letter-spacing:.21em}.brand-crest svg{width:30px;height:37px}.reserve-button{padding:10px 12px;font-size:10px;gap:9px;min-height:43px}.reserve-button span{font-size:18px}.menu-toggle{width:33px;padding:4px}.header-left{gap:0}.arrival,.arrival-stage{height:100svh;min-height:680px}.arrival.is-cinematic{height:100svh}.arrival-copy{padding:130px 20px 160px}.arrival-copy .eyebrow{font-size:9px;letter-spacing:.14em;max-width:260px;line-height:1.8;margin-bottom:30px}.arrival-copy h1{font-size:clamp(63px,13vw,90px);line-height:.96;letter-spacing:-.04em}.arrival-copy h1 em{margin-top:3px}.arrival-copy h1{max-width:100%}.hero-tagline{font-size:13px;margin-top:28px;line-height:1.9}.hero-discover{font-size:12px;margin-top:10px}.arrival-bottom{left:24px;right:24px;bottom:35px;gap:20px}.film-button{font-size:10px;gap:10px;padding:0}.film-button span{width:33px;height:33px}.scroll-cue{font-size:10px;gap:10px}.motion-toggle{bottom:98px;font-size:10px;right:24px}.arrival-poster,.arrival-film{object-position:48% center}.introduction .lede{margin:25px auto}.ornament svg{width:60px;height:55px;margin-bottom:20px}.palace-story{display:flex;flex-direction:column;gap:45px;padding-top:10px}.story-portrait{width:86%;aspect-ratio:4/5;margin-top:0}.story-editorial{width:100%}.story-editorial .display{font-size:52px}.story-editorial>p:not(.eyebrow){font-size:16px}.story-inset{margin:35px 0 0 35%;width:65%}.room-showcase{display:flex;overflow:auto;scroll-snap-type:x mandatory;gap:20px;padding-bottom:15px;scrollbar-width:thin;scrollbar-color:var(--gold) transparent}.room-feature,.room-feature:nth-child(n){flex:0 0 85%;margin-top:0;scroll-snap-align:center}.room-feature-photo{aspect-ratio:4/5}.room-feature-meta h3{font-size:37px}.room-feature-meta p{font-size:12px}.stay-section .section-head>div:last-child p{font-size:15px}.experience-stage{height:760px;min-height:0}.experience-content{padding-top:80px;padding-bottom:65px}.experience-content .display{font-size:58px;line-height:1}.experience-content [data-experience-copy]>p{font-size:15px;max-width:300px;min-height:78px}.experience-controls{width:100%;gap:0;flex-direction:column;margin-top:auto;margin-bottom:20px}.experience-controls button{width:100%;padding:12px 0;min-height:46px;font-size:13px}.experience-controls button span{margin-right:18px}.experience-counter{right:24px;bottom:69px;font-size:26px}.experience-content>.text-link{font-size:12px;gap:20px;max-width:76%}.dining-home{display:flex;flex-direction:column;gap:35px;align-items:start}.dining-heading{padding-top:0}.dining-heading .display{font-size:60px}.dining-heading>p:not(.eyebrow){margin:25px 0}.dining-arch{width:88%;align-self:end;aspect-ratio:3/4;margin-top:5px}.dining-small{width:68%;height:230px;margin-top:-100px;box-shadow:0 0 0 9px var(--ivory)}.photo-label{font-size:12px;padding:40px 15px 15px}.celebration-home .display{margin-bottom:35px}.celebration-frame{height:360px}.celebration-links{display:block;text-align:center;margin-top:35px}.celebration-links>div+div{border-left:0;border-top:1px solid #fff3;padding:30px 0 0;margin-top:30px}.celebration-links h3{font-size:33px}.celebration-links p{font-size:14px}.card-grid,.card-grid.three{grid-template-columns:1fr;gap:40px}.card-copy h2,.card-copy h3,.card-grid.three .card-copy h3{font-size:34px}.card-copy p{font-size:15px}.journal-home .section-head>.text-link{margin-top:20px}.invitation{min-height:560px}.invitation h2{font-size:59px}.invitation .actions{flex-direction:column;gap:18px}.invitation .eyebrow{font-size:9px}.footer{padding-top:60px}.footer-top{display:block;padding-bottom:40px}.footer-top>div{margin-bottom:40px}.footer .brand-name{font-size:33px}.footer .brand-crest svg{width:43px}.footer .brand-name>span{font-size:8px}.footer-top>div:last-child{margin-bottom:0}.footer-bottom{gap:20px;font-size:10px}.footer-bottom>div{flex-wrap:wrap;gap:20px}.concept-note{font-size:9px}.page-hero{height:auto;min-height:520px}.page-hero-copy{padding-top:145px;padding-bottom:55px}.page-hero h1{font-size:48px;line-height:1.06;overflow-wrap:anywhere}.page-hero-copy>p:last-child:not(.eyebrow){font-size:15px;line-height:1.75}.breadcrumbs{font-size:10px;flex-wrap:wrap;margin-bottom:25px}.editorial-grid{grid-template-columns:1fr;gap:35px}.editorial-grid h2{font-size:43px}.editorial-grid>img,.editorial-grid>figure>img{aspect-ratio:4/3}.prose{font-size:16px}.prose h2{font-size:40px}.prose h3{font-size:30px}.info-grid{grid-template-columns:1fr}.info-card{padding:25px}.detail-list{grid-template-columns:1fr;gap:0}.detail-list li{font-size:14px}.fact-row{gap:20px;font-size:14px}.fact-row strong{font-size:28px}.faq-list summary{font-size:25px;line-height:1.3;padding-block:22px}.faq-list details>p,.faq-list details>div{font-size:15px}.gallery-grid{columns:2;column-gap:12px}.gallery-grid button{margin-bottom:12px}.video-grid{grid-template-columns:1fr}.filter-bar{gap:8px}.filter-bar button{font-size:12px;padding:9px 14px}.form-grid{grid-template-columns:1fr;gap:22px}.enquiry-form{padding:28px 20px}.form-heading h2{font-size:43px}.form-heading>p:not(.eyebrow){font-size:14px}.form-actions{flex-direction:column;align-items:stretch}.form-actions .text-link{align-self:start;font-size:12px}.menu-dialog{max-height:100svh}.menu-top{padding:15px 24px}.menu-top .close-button{padding:5px 0;gap:12px}.menu-layout{display:block;padding:30px 24px}.menu-picture{display:none}.menu-navigation nav{grid-template-columns:1fr 1fr;gap:4px 18px}.menu-navigation nav a{font-size:23px;gap:10px;min-height:65px}.menu-navigation a>i{display:none}.menu-navigation a>span{font-size:8px}.menu-bottom{padding:20px 24px;flex-direction:column;font-size:12px}.reserve-dialog[open]{display:block}.reserve-visual{height:180px}.reserve-visual img{height:100%;min-height:0;object-position:center 55%}.reserve-dialog>.close-button{color:var(--ivory);background:#102b28ad;top:6px;right:6px}.reserve-copy{padding:30px 24px}.reserve-copy h2{font-size:51px}.reserve-copy>p{font-size:14px}.reserve-copy .button{width:100%;padding-inline:15px;font-size:12px}.reserve-options{margin-top:20px}.lightbox,.film-dialog{padding-inline:12px;width:calc(100vw - 20px);max-width:calc(100vw - 20px)}.lightbox figure>img{max-height:65svh}.lightbox figcaption{font-size:11px}.lightbox-controls{margin-top:15px}}
 @media(max-width:370px){.brand-crest{display:none}.site-header{padding-inline:12px;gap:10px}.brand-name{font-size:21px}.arrival-copy h1{font-size:61px}.display,.section-head .display{font-size:46px}.arrival-copy .eyebrow{font-size:8px}.experience-content .display{font-size:52px}.menu-navigation nav{grid-template-columns:1fr}.footer nav{font-size:13px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}.arrival.is-cinematic{height:100svh}.arrival-window{clip-path:none!important}.arrival-copy,.arrival-bottom{opacity:1!important;transform:none!important}[data-rise],[data-parallax] img{transform:none!important}.arrival-film{display:none}.motion-toggle{display:none}.experience-bg{transform:none!important}}
+
+
+/* ─────────────────────────────────────────────────────────────
+   KALDAN PREMIUM REFINEMENT
+   Preserve the ivory/white chapter transitions; use champagne
+   gold as a precise accent rather than a second dominant colour.
+   ───────────────────────────────────────────────────────────── */
+:root {
+  --gold: #b58d4b;
+  --gold-light: #e1c58d;
+  --gold-deep: #80602f;
+  --gold-wash: rgba(181, 141, 75, .13);
+}
+
+/* Navigation: larger, easier to scan, and still quiet. */
+.site-header nav {
+  gap: 27px;
+  font-size: 15.5px;
+  font-weight: 500;
+  letter-spacing: .005em;
+}
+.site-header nav a {
+  display: inline-flex;
+  min-height: 46px;
+  align-items: center;
+  padding-block: 8px;
+}
+.site-header nav a::after {
+  bottom: 5px;
+  height: 2px;
+  background: var(--gold-light);
+}
+.site-header[data-theme="light"] nav a:hover,
+.site-header[data-theme="light"] nav a[aria-current] {
+  color: var(--gold-deep);
+}
+.site-header[data-theme="dark"] nav a:hover,
+.site-header[data-theme="media"] nav a:hover {
+  color: var(--gold-light);
+}
+.site-header .menu-toggle {
+  min-width: 44px;
+  min-height: 46px;
+}
+.reserve-button {
+  min-height: 52px;
+  padding: 14px 23px;
+  gap: 18px;
+  border: 1px solid rgba(91, 66, 30, .28);
+  background: var(--gold-light);
+  box-shadow: 0 5px 18px rgba(10, 25, 22, .08);
+  font-size: 12.5px;
+  letter-spacing: .13em;
+  transition: background .3s var(--ease), color .3s var(--ease), transform .3s var(--ease), box-shadow .3s var(--ease);
+}
+.reserve-button:hover {
+  background: #ecd9ad;
+  color: #102b28;
+  box-shadow: 0 8px 24px rgba(10, 25, 22, .16);
+  transform: translateY(-1px);
+}
+.reserve-button:focus-visible {
+  outline: 2px solid var(--gold-light);
+  outline-offset: 4px;
+}
+
+/* A single warm-metal detail gives the cinematic hero a signature. */
+.arrival-copy .eyebrow {
+  color: #f0dbaF;
+}
+.arrival-copy h1::after {
+  content: "";
+  display: block;
+  width: 66px;
+  height: 1px;
+  margin: 29px auto 0;
+  background: linear-gradient(90deg, transparent, var(--gold-light), transparent);
+  opacity: .95;
+}
+.hero-discover {
+  min-height: 44px;
+  margin-top: 8px;
+  border-bottom-color: var(--gold-light);
+  transition: color .25s ease, border-color .25s ease;
+}
+.hero-discover:hover {
+  color: var(--gold-light);
+  border-bottom-color: var(--gold-light);
+}
+
+/* Gold remains readable on light sections; pale gold stays on dark ones. */
+.eyebrow,
+.display em,
+.story-editorial .display em,
+.dining-heading .display em,
+.page-section-head .display em,
+.editorial-grid .display em {
+  color: var(--gold-deep);
+}
+.stay-section .eyebrow,
+.stay-section .display em,
+.celebration-home .eyebrow,
+.celebration-home .display em,
+.experience-content .eyebrow,
+.experience-content .display em,
+.invitation .eyebrow,
+.invitation h2 em,
+.menu-navigation .eyebrow {
+  color: var(--gold-light);
+}
+.text-link {
+  border-bottom-color: rgba(181, 141, 75, .72);
+}
+.text-link span,
+.photo-label span {
+  color: var(--gold-deep);
+}
+.stay-section .text-link,
+.celebration-home .text-link,
+.experience-content .text-link,
+.invitation .text-link,
+.footer .text-link {
+  border-bottom-color: rgba(225, 197, 141, .72);
+}
+.stay-section .text-link span,
+.celebration-home .text-link span,
+.experience-content .text-link span,
+.invitation .text-link span,
+.footer .text-link span {
+  color: var(--gold-light);
+}
+.button.gold {
+  background: var(--gold-light);
+  border-color: #c8a568;
+  color: #183530;
+  box-shadow: 0 8px 24px rgba(7, 25, 21, .14);
+}
+.button.gold:hover {
+  background: #f0dfb9;
+  border-color: #e1c58d;
+  color: #102b28;
+}
+.round-arrow {
+  background: var(--gold-light);
+  color: #183530;
+  transition: transform .35s var(--ease), background .35s var(--ease);
+}
+.room-feature:hover .round-arrow {
+  transform: translate(2px, -2px);
+  background: #f0dfb9;
+}
+.info-card,
+.enquiry-form {
+  transition: border-color .3s ease, box-shadow .3s ease;
+}
+.info-card:hover {
+  border-color: rgba(181, 141, 75, .55);
+  box-shadow: 0 12px 36px rgba(24, 53, 48, .06);
+}
+.form-grid input:focus,
+.form-grid select:focus,
+.form-grid textarea:focus {
+  border-color: var(--gold-deep);
+  outline: 2px solid rgba(181, 141, 75, .18);
+  outline-offset: 1px;
+}
+
+@media (max-width: 1200px) {
+  .site-header nav {
+    gap: 17px;
+    font-size: 14px;
+  }
+  .reserve-button {
+    padding-inline: 18px;
+  }
+}
+@media (max-width: 700px) {
+  .reserve-button {
+    min-height: 44px;
+    padding: 10px 13px;
+    font-size: 10.5px;
+    letter-spacing: .1em;
+  }
+  .arrival-copy h1::after {
+    width: 52px;
+    margin-top: 22px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .reserve-button,
+  .round-arrow,
+  .info-card {
+    transition: none;
+  }
+}

@@ -15,3 +15,5 @@ capture/*
 # Large archive backups (kept locally only)
 /kaldan-concept-deploy.zip
 /kaldan-premium-*.zip
+kaldan-minimal-updates.zip
+/kaldan-minimal-updates.zip
