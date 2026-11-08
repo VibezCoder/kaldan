@@ -1,0 +1,3905 @@
+{
+  "testedAt": "2026-11-08T15:50:09.605Z",
+  "routes": 74,
+  "profiles": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 900,
+      "layouts": [
+        {
+          "path": "/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 274.796875,
+          "bottom": 536.328125,
+          "heroBottom": 1665,
+          "broken": []
+        },
+        {
+          "path": "/about-us/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/accommodations/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/accommodations/deluxe-twin-room/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/accommodations/deluxe-king/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/accommodations/premium-king/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/accommodations/executive-palace-suite/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/accommodations/premium-palace-suite/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/accommodations/executive-villa-ground-floor/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/accommodations/executive-villa-first-floor/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/accommodations/luxury-villa/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/dining/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/dining/dhani/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/dining/somapuraa/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/dining/sagar-bar/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/dining/panch-mahal/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/experiences/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/activities/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/kaldan-weddings/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/events-conferences/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/offers/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/offers/weekday-discount/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/offers/day-use-package/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/offers/enchanted-empress-getaway-package/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/offers/book-early-save/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/offers/royal-summer-saver-for-two/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/offers/the-royal-affair/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/offers/book-7-days-ahead-get-12-off/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/offers/summer-crown-escape/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/one-day-luxury-stay-near-chennai-with-private-beach-access-at-kaldan-samudhra-palace/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 250.25,
+          "bottom": 492.59375,
+          "heroBottom": 638.96875,
+          "broken": []
+        },
+        {
+          "path": "/blogs/the-perfect-backdrop-to-begin-your-forever-amidst-royal-grandeur/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 312.0625,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/5-reasons-to-plan-a-mini-break-at-one-of-the-best-hotels-and-resorts-in-ecr/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 312.0625,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/the-ultimate-guide-to-choosing-your-dream-destination-wedding-venue/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 312.0625,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/10-exciting-activities-to-plan-around-mahabalipuram-resorts/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 312.0625,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/a-gourmet-escape-at-kaldan-samudhra-palace-resort-an-unforgettable-dining-experience/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 250.25,
+          "bottom": 492.59375,
+          "heroBottom": 638.96875,
+          "broken": []
+        },
+        {
+          "path": "/blogs/5-good-reasons-to-take-a-break/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/why-a-beach-honeymoon-is-unforgettable-experience-the-magic-at-kaldan-samudhra-palace/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 250.25,
+          "bottom": 492.59375,
+          "heroBottom": 638.96875,
+          "broken": []
+        },
+        {
+          "path": "/blogs/the-perfect-family-getaway-activities-and-amenities-for-all-ages-at-kaldan-samudhra-palace/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 250.25,
+          "bottom": 492.59375,
+          "heroBottom": 638.96875,
+          "broken": []
+        },
+        {
+          "path": "/blogs/embark-on-forever-celebrate-your-dream-beach-wedding-at-kaldan-samudhra-palace/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 250.25,
+          "bottom": 492.59375,
+          "heroBottom": 638.96875,
+          "broken": []
+        },
+        {
+          "path": "/blogs/family-friendly-luxury-unforgettable-memories-await-at-kaldan-samudhra-palace-ecr/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 250.25,
+          "bottom": 492.59375,
+          "heroBottom": 638.96875,
+          "broken": []
+        },
+        {
+          "path": "/blogs/choosing-the-right-ecr-resort-with-a-pool-for-your-vacation/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 312.0625,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/a-historical-retreat-discover-mahabalipurams-ancient-temples/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 312.0625,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/a-culinary-journey-from-fine-dining-to-beachfront-bliss-at-kaldan/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 312.0625,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/spend-a-weekend-in-one-of-the-best-luxury-resorts-in-mahabalipuram/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 312.0625,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/welcome-rituals-at-our-luxury-palace-by-the-sea/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 312.0625,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/anthapuraa-spa-at-kaldan-samudhra-palace/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 312.0625,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/sounds-of-the-ocean-beckoning-you-from-within-seashells/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 312.0625,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/on-the-shores-of-mahabalipuram/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/proposals-weddings-anniversaries-parties-our-banquet/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 312.0625,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/traditional-rajasthani-experience-kaldan-samudhras-unique-claim-to-fame/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 250.25,
+          "bottom": 492.59375,
+          "heroBottom": 638.96875,
+          "broken": []
+        },
+        {
+          "path": "/blogs/the-journey-of-kaldan-samudhra-a-look-back-at-the-first-year/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 312.0625,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/kaldan-december-2022/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/cake-mixing-ceremony-at-kaldan-samudhra/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 312.0625,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/international-yoga-day-celebrations-at-kaldan-samudhra/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 312.0625,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/jcb-dealers-meet-2022-at-the-kaldan-samudhra-ecr/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 312.0625,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/best-proposal-spot-in-mahabalipuram/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/best-destination-beach-weddings/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/5-star-hotels-in-mahabalipuram/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/beat-the-summer-heat-in-style/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/kaldan-samudhra-palace-is-your-ideal-venue-for-a-beach-wedding-heres-why/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 250.25,
+          "bottom": 492.59375,
+          "heroBottom": 638.96875,
+          "broken": []
+        },
+        {
+          "path": "/blogs/weekend-getaway-in-kaldan-samudhra-palace/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 312.0625,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/unveiling-the-majestic-charms-of-chennai-and-mahabalipuram/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 341.75,
+          "bottom": 503.3125,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/top-5-reasons-why-kaldan-samudhra-palace-stole-my-heart-away/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 312.0625,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/summer-vacation-at-kaldan-a-fun-filled-escape-for-the-whole-family/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 312.0625,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/blogs/how-to-choose-the-perfect-banquet-hall-for-your-next-event/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 312.0625,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/gallery/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 422.53125,
+          "bottom": 503.3125,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/gallery/images/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/gallery/videos/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 422.53125,
+          "bottom": 503.3125,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/location/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/contact-us/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/faqs/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/terms-conditions/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        },
+        {
+          "path": "/about-juju/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 392.84375,
+          "bottom": 473.625,
+          "heroBottom": 620,
+          "broken": []
+        }
+      ]
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "layouts": [
+        {
+          "path": "/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 294.46875,
+          "bottom": 420.828125,
+          "heroBottom": 844,
+          "broken": []
+        },
+        {
+          "path": "/about-us/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 262.5,
+          "bottom": 364.25,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/accommodations/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 262.5,
+          "bottom": 364.25,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/accommodations/deluxe-twin-room/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 313.375,
+          "bottom": 364.25,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/accommodations/deluxe-king/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 313.375,
+          "bottom": 364.25,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/accommodations/premium-king/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 313.375,
+          "bottom": 364.25,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/accommodations/executive-palace-suite/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 262.5,
+          "bottom": 364.25,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/accommodations/premium-palace-suite/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 262.5,
+          "bottom": 364.25,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/accommodations/executive-villa-ground-floor/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 236.25,
+          "bottom": 338,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/accommodations/executive-villa-first-floor/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 262.5,
+          "bottom": 364.25,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/accommodations/luxury-villa/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 313.375,
+          "bottom": 364.25,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/dining/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 288.75,
+          "bottom": 390.5,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/dining/dhani/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 236.25,
+          "bottom": 338,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/dining/somapuraa/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 287.125,
+          "bottom": 338,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/dining/sagar-bar/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 236.25,
+          "bottom": 338,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/dining/panch-mahal/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 287.125,
+          "bottom": 338,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/experiences/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 313.375,
+          "bottom": 364.25,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/activities/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 288.75,
+          "bottom": 390.5,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/kaldan-weddings/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 262.5,
+          "bottom": 364.25,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/events-conferences/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 262.5,
+          "bottom": 364.25,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/offers/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 373.125,
+          "heroBottom": 528.875,
+          "broken": []
+        },
+        {
+          "path": "/offers/weekday-discount/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 313.375,
+          "bottom": 364.25,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/offers/day-use-package/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 287.125,
+          "bottom": 338,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/offers/enchanted-empress-getaway-package/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 236.25,
+          "bottom": 338,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/offers/book-early-save/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 287.125,
+          "bottom": 338,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/offers/royal-summer-saver-for-two/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 236.25,
+          "bottom": 338,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/offers/the-royal-affair/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 287.125,
+          "bottom": 338,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/offers/book-7-days-ahead-get-12-off/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 236.25,
+          "bottom": 338,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/offers/summer-crown-escape/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 236.25,
+          "bottom": 338,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/blogs/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 262.5,
+          "bottom": 364.25,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/blogs/one-day-luxury-stay-near-chennai-with-private-beach-access-at-kaldan-samudhra-palace/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 474.875,
+          "heroBottom": 656.875,
+          "broken": []
+        },
+        {
+          "path": "/blogs/the-perfect-backdrop-to-begin-your-forever-amidst-royal-grandeur/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 474.875,
+          "heroBottom": 656.875,
+          "broken": []
+        },
+        {
+          "path": "/blogs/5-reasons-to-plan-a-mini-break-at-one-of-the-best-hotels-and-resorts-in-ecr/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 474.875,
+          "heroBottom": 630.625,
+          "broken": []
+        },
+        {
+          "path": "/blogs/the-ultimate-guide-to-choosing-your-dream-destination-wedding-venue/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 474.875,
+          "heroBottom": 656.875,
+          "broken": []
+        },
+        {
+          "path": "/blogs/10-exciting-activities-to-plan-around-mahabalipuram-resorts/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 474.875,
+          "heroBottom": 656.875,
+          "broken": []
+        },
+        {
+          "path": "/blogs/a-gourmet-escape-at-kaldan-samudhra-palace-resort-an-unforgettable-dining-experience/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 525.75,
+          "heroBottom": 707.75,
+          "broken": []
+        },
+        {
+          "path": "/blogs/5-good-reasons-to-take-a-break/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 236.25,
+          "bottom": 338,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/blogs/why-a-beach-honeymoon-is-unforgettable-experience-the-magic-at-kaldan-samudhra-palace/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 525.75,
+          "heroBottom": 707.75,
+          "broken": []
+        },
+        {
+          "path": "/blogs/the-perfect-family-getaway-activities-and-amenities-for-all-ages-at-kaldan-samudhra-palace/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 474.875,
+          "heroBottom": 630.625,
+          "broken": []
+        },
+        {
+          "path": "/blogs/embark-on-forever-celebrate-your-dream-beach-wedding-at-kaldan-samudhra-palace/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 474.875,
+          "heroBottom": 656.875,
+          "broken": []
+        },
+        {
+          "path": "/blogs/family-friendly-luxury-unforgettable-memories-await-at-kaldan-samudhra-palace-ecr/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 525.75,
+          "heroBottom": 707.75,
+          "broken": []
+        },
+        {
+          "path": "/blogs/choosing-the-right-ecr-resort-with-a-pool-for-your-vacation/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 424,
+          "heroBottom": 606,
+          "broken": []
+        },
+        {
+          "path": "/blogs/a-historical-retreat-discover-mahabalipurams-ancient-temples/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 424,
+          "heroBottom": 606,
+          "broken": []
+        },
+        {
+          "path": "/blogs/a-culinary-journey-from-fine-dining-to-beachfront-bliss-at-kaldan/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 424,
+          "heroBottom": 606,
+          "broken": []
+        },
+        {
+          "path": "/blogs/spend-a-weekend-in-one-of-the-best-luxury-resorts-in-mahabalipuram/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 424,
+          "heroBottom": 606,
+          "broken": []
+        },
+        {
+          "path": "/blogs/welcome-rituals-at-our-luxury-palace-by-the-sea/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 373.125,
+          "heroBottom": 528.875,
+          "broken": []
+        },
+        {
+          "path": "/blogs/anthapuraa-spa-at-kaldan-samudhra-palace/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 373.125,
+          "heroBottom": 555.125,
+          "broken": []
+        },
+        {
+          "path": "/blogs/sounds-of-the-ocean-beckoning-you-from-within-seashells/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 424,
+          "heroBottom": 606,
+          "broken": []
+        },
+        {
+          "path": "/blogs/on-the-shores-of-mahabalipuram/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 236.25,
+          "bottom": 338,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/blogs/proposals-weddings-anniversaries-parties-our-banquet/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 474.875,
+          "heroBottom": 656.875,
+          "broken": []
+        },
+        {
+          "path": "/blogs/traditional-rajasthani-experience-kaldan-samudhras-unique-claim-to-fame/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 525.75,
+          "heroBottom": 707.75,
+          "broken": []
+        },
+        {
+          "path": "/blogs/the-journey-of-kaldan-samudhra-a-look-back-at-the-first-year/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 424,
+          "heroBottom": 606,
+          "broken": []
+        },
+        {
+          "path": "/blogs/kaldan-december-2022/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 236.25,
+          "bottom": 338,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/blogs/cake-mixing-ceremony-at-kaldan-samudhra/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 373.125,
+          "heroBottom": 555.125,
+          "broken": []
+        },
+        {
+          "path": "/blogs/international-yoga-day-celebrations-at-kaldan-samudhra/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 373.125,
+          "heroBottom": 555.125,
+          "broken": []
+        },
+        {
+          "path": "/blogs/jcb-dealers-meet-2022-at-the-kaldan-samudhra-ecr/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 373.125,
+          "heroBottom": 555.125,
+          "broken": []
+        },
+        {
+          "path": "/blogs/best-proposal-spot-in-mahabalipuram/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 236.25,
+          "bottom": 338,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/blogs/best-destination-beach-weddings/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 236.25,
+          "bottom": 338,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/blogs/5-star-hotels-in-mahabalipuram/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 236.25,
+          "bottom": 338,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/blogs/beat-the-summer-heat-in-style/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 236.25,
+          "bottom": 338,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/blogs/kaldan-samudhra-palace-is-your-ideal-venue-for-a-beach-wedding-heres-why/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 474.875,
+          "heroBottom": 630.625,
+          "broken": []
+        },
+        {
+          "path": "/blogs/weekend-getaway-in-kaldan-samudhra-palace/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 373.125,
+          "heroBottom": 555.125,
+          "broken": []
+        },
+        {
+          "path": "/blogs/unveiling-the-majestic-charms-of-chennai-and-mahabalipuram/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 424,
+          "heroBottom": 527.25,
+          "broken": []
+        },
+        {
+          "path": "/blogs/top-5-reasons-why-kaldan-samudhra-palace-stole-my-heart-away/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 474.875,
+          "heroBottom": 656.875,
+          "broken": []
+        },
+        {
+          "path": "/blogs/summer-vacation-at-kaldan-a-fun-filled-escape-for-the-whole-family/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 424,
+          "heroBottom": 606,
+          "broken": []
+        },
+        {
+          "path": "/blogs/how-to-choose-the-perfect-banquet-hall-for-your-next-event/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 220.5,
+          "bottom": 424,
+          "heroBottom": 606,
+          "broken": []
+        },
+        {
+          "path": "/gallery/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 288.75,
+          "bottom": 390.5,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/gallery/images/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 262.5,
+          "bottom": 364.25,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/gallery/videos/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 288.75,
+          "bottom": 390.5,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/location/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 262.5,
+          "bottom": 364.25,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/contact-us/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 262.5,
+          "bottom": 364.25,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/faqs/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 262.5,
+          "bottom": 364.25,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/terms-conditions/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 262.5,
+          "bottom": 364.25,
+          "heroBottom": 520,
+          "broken": []
+        },
+        {
+          "path": "/about-juju/",
+          "h1": 1,
+          "overflow": 0,
+          "top": 262.5,
+          "bottom": 364.25,
+          "heroBottom": 520,
+          "broken": []
+        }
+      ]
+    },
+    {
+      "name": "narrow",
+      "width": 320,
+      "height": 740
+    },
+    {
+      "name": "tablet",
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "name": "reduced",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "name": "nojs",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "name": "blocked-module",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "name": "asset-failure",
+      "width": 390,
+      "height": 844
+    }
+  ],
+  "checks": [
+    {
+      "name": "desktop: opening heading visible",
+      "passed": true
+    },
+    {
+      "name": "desktop: no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "desktop: menu opens by pointer",
+      "passed": true
+    },
+    {
+      "name": "desktop: menu keyboard focus remains inside",
+      "passed": true
+    },
+    {
+      "name": "desktop: Escape closes and restores focus",
+      "passed": true
+    },
+    {
+      "name": "desktop: visible menu close works",
+      "passed": true
+    },
+    {
+      "name": "desktop: reservation handoff present",
+      "passed": true
+    },
+    {
+      "name": "desktop: background film pauses",
+      "passed": true
+    },
+    {
+      "name": "desktop: palace film plays",
+      "passed": true
+    },
+    {
+      "name": "desktop: closing film pauses it",
+      "passed": true
+    },
+    {
+      "name": "desktop: portal contracts and light header appears",
+      "passed": true
+    },
+    {
+      "name": "desktop: reverse scroll restores hero controls",
+      "passed": true
+    },
+    {
+      "name": "desktop: dark header theme",
+      "passed": true
+    },
+    {
+      "name": "desktop: experience changes image and text",
+      "passed": true
+    },
+    {
+      "name": "desktop: experience text does not overlap controls",
+      "passed": true
+    },
+    {
+      "name": "desktop: light header and readable dining",
+      "passed": true
+    },
+    {
+      "name": "desktop: villas filter",
+      "passed": true
+    },
+    {
+      "name": "desktop: no-results message",
+      "passed": true
+    },
+    {
+      "name": "desktop: filters reset",
+      "passed": true
+    },
+    {
+      "name": "desktop: gallery lightbox opens",
+      "passed": true
+    },
+    {
+      "name": "desktop: gallery next via keyboard",
+      "passed": true
+    },
+    {
+      "name": "desktop: FAQ search",
+      "passed": true
+    },
+    {
+      "name": "desktop: FAQ opens",
+      "passed": true
+    },
+    {
+      "name": "desktop: accommodation enquiry prefilled",
+      "passed": true
+    },
+    {
+      "name": "desktop: required-field validation",
+      "passed": true
+    },
+    {
+      "name": "desktop: unavailable delivery is honest",
+      "passed": true
+    },
+    {
+      "name": "desktop: enquiry download prepared",
+      "passed": true
+    },
+    {
+      "name": "desktop: / layout",
+      "passed": true,
+      "detail": {
+        "path": "/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 274.796875,
+        "bottom": 536.328125,
+        "heroBottom": 1665,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /about-us/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/about-us/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /accommodations/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/accommodations/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /accommodations/deluxe-twin-room/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/accommodations/deluxe-twin-room/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /accommodations/deluxe-king/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/accommodations/deluxe-king/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /accommodations/premium-king/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/accommodations/premium-king/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /accommodations/executive-palace-suite/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/accommodations/executive-palace-suite/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /accommodations/premium-palace-suite/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/accommodations/premium-palace-suite/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /accommodations/executive-villa-ground-floor/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/accommodations/executive-villa-ground-floor/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /accommodations/executive-villa-first-floor/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/accommodations/executive-villa-first-floor/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /accommodations/luxury-villa/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/accommodations/luxury-villa/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /dining/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/dining/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /dining/dhani/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/dining/dhani/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /dining/somapuraa/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/dining/somapuraa/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /dining/sagar-bar/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/dining/sagar-bar/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /dining/panch-mahal/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/dining/panch-mahal/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /experiences/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/experiences/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /activities/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/activities/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /kaldan-weddings/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/kaldan-weddings/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /events-conferences/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/events-conferences/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /offers/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/offers/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /offers/weekday-discount/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/offers/weekday-discount/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /offers/day-use-package/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/offers/day-use-package/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /offers/enchanted-empress-getaway-package/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/offers/enchanted-empress-getaway-package/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /offers/book-early-save/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/offers/book-early-save/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /offers/royal-summer-saver-for-two/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/offers/royal-summer-saver-for-two/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /offers/the-royal-affair/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/offers/the-royal-affair/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /offers/book-7-days-ahead-get-12-off/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/offers/book-7-days-ahead-get-12-off/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /offers/summer-crown-escape/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/offers/summer-crown-escape/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/one-day-luxury-stay-near-chennai-with-private-beach-access-at-kaldan-samudhra-palace/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/one-day-luxury-stay-near-chennai-with-private-beach-access-at-kaldan-samudhra-palace/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 250.25,
+        "bottom": 492.59375,
+        "heroBottom": 638.96875,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/the-perfect-backdrop-to-begin-your-forever-amidst-royal-grandeur/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/the-perfect-backdrop-to-begin-your-forever-amidst-royal-grandeur/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 312.0625,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/5-reasons-to-plan-a-mini-break-at-one-of-the-best-hotels-and-resorts-in-ecr/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/5-reasons-to-plan-a-mini-break-at-one-of-the-best-hotels-and-resorts-in-ecr/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 312.0625,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/the-ultimate-guide-to-choosing-your-dream-destination-wedding-venue/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/the-ultimate-guide-to-choosing-your-dream-destination-wedding-venue/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 312.0625,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/10-exciting-activities-to-plan-around-mahabalipuram-resorts/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/10-exciting-activities-to-plan-around-mahabalipuram-resorts/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 312.0625,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/a-gourmet-escape-at-kaldan-samudhra-palace-resort-an-unforgettable-dining-experience/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/a-gourmet-escape-at-kaldan-samudhra-palace-resort-an-unforgettable-dining-experience/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 250.25,
+        "bottom": 492.59375,
+        "heroBottom": 638.96875,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/5-good-reasons-to-take-a-break/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/5-good-reasons-to-take-a-break/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/why-a-beach-honeymoon-is-unforgettable-experience-the-magic-at-kaldan-samudhra-palace/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/why-a-beach-honeymoon-is-unforgettable-experience-the-magic-at-kaldan-samudhra-palace/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 250.25,
+        "bottom": 492.59375,
+        "heroBottom": 638.96875,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/the-perfect-family-getaway-activities-and-amenities-for-all-ages-at-kaldan-samudhra-palace/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/the-perfect-family-getaway-activities-and-amenities-for-all-ages-at-kaldan-samudhra-palace/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 250.25,
+        "bottom": 492.59375,
+        "heroBottom": 638.96875,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/embark-on-forever-celebrate-your-dream-beach-wedding-at-kaldan-samudhra-palace/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/embark-on-forever-celebrate-your-dream-beach-wedding-at-kaldan-samudhra-palace/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 250.25,
+        "bottom": 492.59375,
+        "heroBottom": 638.96875,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/family-friendly-luxury-unforgettable-memories-await-at-kaldan-samudhra-palace-ecr/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/family-friendly-luxury-unforgettable-memories-await-at-kaldan-samudhra-palace-ecr/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 250.25,
+        "bottom": 492.59375,
+        "heroBottom": 638.96875,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/choosing-the-right-ecr-resort-with-a-pool-for-your-vacation/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/choosing-the-right-ecr-resort-with-a-pool-for-your-vacation/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 312.0625,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/a-historical-retreat-discover-mahabalipurams-ancient-temples/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/a-historical-retreat-discover-mahabalipurams-ancient-temples/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 312.0625,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/a-culinary-journey-from-fine-dining-to-beachfront-bliss-at-kaldan/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/a-culinary-journey-from-fine-dining-to-beachfront-bliss-at-kaldan/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 312.0625,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/spend-a-weekend-in-one-of-the-best-luxury-resorts-in-mahabalipuram/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/spend-a-weekend-in-one-of-the-best-luxury-resorts-in-mahabalipuram/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 312.0625,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/welcome-rituals-at-our-luxury-palace-by-the-sea/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/welcome-rituals-at-our-luxury-palace-by-the-sea/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 312.0625,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/anthapuraa-spa-at-kaldan-samudhra-palace/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/anthapuraa-spa-at-kaldan-samudhra-palace/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 312.0625,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/sounds-of-the-ocean-beckoning-you-from-within-seashells/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/sounds-of-the-ocean-beckoning-you-from-within-seashells/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 312.0625,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/on-the-shores-of-mahabalipuram/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/on-the-shores-of-mahabalipuram/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/proposals-weddings-anniversaries-parties-our-banquet/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/proposals-weddings-anniversaries-parties-our-banquet/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 312.0625,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/traditional-rajasthani-experience-kaldan-samudhras-unique-claim-to-fame/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/traditional-rajasthani-experience-kaldan-samudhras-unique-claim-to-fame/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 250.25,
+        "bottom": 492.59375,
+        "heroBottom": 638.96875,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/the-journey-of-kaldan-samudhra-a-look-back-at-the-first-year/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/the-journey-of-kaldan-samudhra-a-look-back-at-the-first-year/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 312.0625,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/kaldan-december-2022/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/kaldan-december-2022/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/cake-mixing-ceremony-at-kaldan-samudhra/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/cake-mixing-ceremony-at-kaldan-samudhra/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 312.0625,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/international-yoga-day-celebrations-at-kaldan-samudhra/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/international-yoga-day-celebrations-at-kaldan-samudhra/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 312.0625,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/jcb-dealers-meet-2022-at-the-kaldan-samudhra-ecr/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/jcb-dealers-meet-2022-at-the-kaldan-samudhra-ecr/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 312.0625,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/best-proposal-spot-in-mahabalipuram/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/best-proposal-spot-in-mahabalipuram/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/best-destination-beach-weddings/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/best-destination-beach-weddings/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/5-star-hotels-in-mahabalipuram/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/5-star-hotels-in-mahabalipuram/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/beat-the-summer-heat-in-style/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/beat-the-summer-heat-in-style/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/kaldan-samudhra-palace-is-your-ideal-venue-for-a-beach-wedding-heres-why/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/kaldan-samudhra-palace-is-your-ideal-venue-for-a-beach-wedding-heres-why/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 250.25,
+        "bottom": 492.59375,
+        "heroBottom": 638.96875,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/weekend-getaway-in-kaldan-samudhra-palace/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/weekend-getaway-in-kaldan-samudhra-palace/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 312.0625,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/unveiling-the-majestic-charms-of-chennai-and-mahabalipuram/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/unveiling-the-majestic-charms-of-chennai-and-mahabalipuram/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 341.75,
+        "bottom": 503.3125,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/top-5-reasons-why-kaldan-samudhra-palace-stole-my-heart-away/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/top-5-reasons-why-kaldan-samudhra-palace-stole-my-heart-away/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 312.0625,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/summer-vacation-at-kaldan-a-fun-filled-escape-for-the-whole-family/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/summer-vacation-at-kaldan-a-fun-filled-escape-for-the-whole-family/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 312.0625,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /blogs/how-to-choose-the-perfect-banquet-hall-for-your-next-event/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/how-to-choose-the-perfect-banquet-hall-for-your-next-event/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 312.0625,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /gallery/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/gallery/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 422.53125,
+        "bottom": 503.3125,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /gallery/images/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/gallery/images/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /gallery/videos/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/gallery/videos/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 422.53125,
+        "bottom": 503.3125,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /location/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/location/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /contact-us/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/contact-us/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /faqs/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/faqs/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /terms-conditions/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/terms-conditions/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: /about-juju/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/about-juju/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 392.84375,
+        "bottom": 473.625,
+        "heroBottom": 620,
+        "broken": []
+      }
+    },
+    {
+      "name": "desktop: no JavaScript exceptions",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "mobile: opening heading visible",
+      "passed": true
+    },
+    {
+      "name": "mobile: no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "mobile: menu opens by pointer",
+      "passed": true
+    },
+    {
+      "name": "mobile: menu keyboard focus remains inside",
+      "passed": true
+    },
+    {
+      "name": "mobile: Escape closes and restores focus",
+      "passed": true
+    },
+    {
+      "name": "mobile: visible menu close works",
+      "passed": true
+    },
+    {
+      "name": "mobile: reservation handoff present",
+      "passed": true
+    },
+    {
+      "name": "mobile: background film pauses",
+      "passed": true
+    },
+    {
+      "name": "mobile: palace film plays",
+      "passed": true
+    },
+    {
+      "name": "mobile: closing film pauses it",
+      "passed": true
+    },
+    {
+      "name": "mobile: dark header theme",
+      "passed": true
+    },
+    {
+      "name": "mobile: experience changes image and text",
+      "passed": true
+    },
+    {
+      "name": "mobile: experience text does not overlap controls",
+      "passed": true
+    },
+    {
+      "name": "mobile: light header and readable dining",
+      "passed": true
+    },
+    {
+      "name": "mobile: villas filter",
+      "passed": true
+    },
+    {
+      "name": "mobile: no-results message",
+      "passed": true
+    },
+    {
+      "name": "mobile: filters reset",
+      "passed": true
+    },
+    {
+      "name": "mobile: gallery lightbox opens",
+      "passed": true
+    },
+    {
+      "name": "mobile: gallery next via keyboard",
+      "passed": true
+    },
+    {
+      "name": "mobile: FAQ search",
+      "passed": true
+    },
+    {
+      "name": "mobile: FAQ opens",
+      "passed": true
+    },
+    {
+      "name": "mobile: accommodation enquiry prefilled",
+      "passed": true
+    },
+    {
+      "name": "mobile: required-field validation",
+      "passed": true
+    },
+    {
+      "name": "mobile: unavailable delivery is honest",
+      "passed": true
+    },
+    {
+      "name": "mobile: enquiry download prepared",
+      "passed": true
+    },
+    {
+      "name": "mobile: / layout",
+      "passed": true,
+      "detail": {
+        "path": "/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 294.46875,
+        "bottom": 420.828125,
+        "heroBottom": 844,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /about-us/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/about-us/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 262.5,
+        "bottom": 364.25,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /accommodations/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/accommodations/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 262.5,
+        "bottom": 364.25,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /accommodations/deluxe-twin-room/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/accommodations/deluxe-twin-room/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 313.375,
+        "bottom": 364.25,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /accommodations/deluxe-king/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/accommodations/deluxe-king/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 313.375,
+        "bottom": 364.25,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /accommodations/premium-king/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/accommodations/premium-king/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 313.375,
+        "bottom": 364.25,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /accommodations/executive-palace-suite/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/accommodations/executive-palace-suite/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 262.5,
+        "bottom": 364.25,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /accommodations/premium-palace-suite/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/accommodations/premium-palace-suite/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 262.5,
+        "bottom": 364.25,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /accommodations/executive-villa-ground-floor/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/accommodations/executive-villa-ground-floor/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 236.25,
+        "bottom": 338,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /accommodations/executive-villa-first-floor/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/accommodations/executive-villa-first-floor/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 262.5,
+        "bottom": 364.25,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /accommodations/luxury-villa/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/accommodations/luxury-villa/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 313.375,
+        "bottom": 364.25,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /dining/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/dining/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 288.75,
+        "bottom": 390.5,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /dining/dhani/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/dining/dhani/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 236.25,
+        "bottom": 338,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /dining/somapuraa/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/dining/somapuraa/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 287.125,
+        "bottom": 338,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /dining/sagar-bar/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/dining/sagar-bar/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 236.25,
+        "bottom": 338,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /dining/panch-mahal/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/dining/panch-mahal/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 287.125,
+        "bottom": 338,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /experiences/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/experiences/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 313.375,
+        "bottom": 364.25,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /activities/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/activities/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 288.75,
+        "bottom": 390.5,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /kaldan-weddings/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/kaldan-weddings/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 262.5,
+        "bottom": 364.25,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /events-conferences/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/events-conferences/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 262.5,
+        "bottom": 364.25,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /offers/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/offers/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 373.125,
+        "heroBottom": 528.875,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /offers/weekday-discount/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/offers/weekday-discount/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 313.375,
+        "bottom": 364.25,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /offers/day-use-package/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/offers/day-use-package/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 287.125,
+        "bottom": 338,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /offers/enchanted-empress-getaway-package/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/offers/enchanted-empress-getaway-package/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 236.25,
+        "bottom": 338,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /offers/book-early-save/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/offers/book-early-save/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 287.125,
+        "bottom": 338,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /offers/royal-summer-saver-for-two/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/offers/royal-summer-saver-for-two/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 236.25,
+        "bottom": 338,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /offers/the-royal-affair/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/offers/the-royal-affair/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 287.125,
+        "bottom": 338,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /offers/book-7-days-ahead-get-12-off/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/offers/book-7-days-ahead-get-12-off/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 236.25,
+        "bottom": 338,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /offers/summer-crown-escape/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/offers/summer-crown-escape/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 236.25,
+        "bottom": 338,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 262.5,
+        "bottom": 364.25,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/one-day-luxury-stay-near-chennai-with-private-beach-access-at-kaldan-samudhra-palace/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/one-day-luxury-stay-near-chennai-with-private-beach-access-at-kaldan-samudhra-palace/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 474.875,
+        "heroBottom": 656.875,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/the-perfect-backdrop-to-begin-your-forever-amidst-royal-grandeur/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/the-perfect-backdrop-to-begin-your-forever-amidst-royal-grandeur/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 474.875,
+        "heroBottom": 656.875,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/5-reasons-to-plan-a-mini-break-at-one-of-the-best-hotels-and-resorts-in-ecr/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/5-reasons-to-plan-a-mini-break-at-one-of-the-best-hotels-and-resorts-in-ecr/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 474.875,
+        "heroBottom": 630.625,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/the-ultimate-guide-to-choosing-your-dream-destination-wedding-venue/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/the-ultimate-guide-to-choosing-your-dream-destination-wedding-venue/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 474.875,
+        "heroBottom": 656.875,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/10-exciting-activities-to-plan-around-mahabalipuram-resorts/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/10-exciting-activities-to-plan-around-mahabalipuram-resorts/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 474.875,
+        "heroBottom": 656.875,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/a-gourmet-escape-at-kaldan-samudhra-palace-resort-an-unforgettable-dining-experience/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/a-gourmet-escape-at-kaldan-samudhra-palace-resort-an-unforgettable-dining-experience/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 525.75,
+        "heroBottom": 707.75,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/5-good-reasons-to-take-a-break/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/5-good-reasons-to-take-a-break/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 236.25,
+        "bottom": 338,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/why-a-beach-honeymoon-is-unforgettable-experience-the-magic-at-kaldan-samudhra-palace/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/why-a-beach-honeymoon-is-unforgettable-experience-the-magic-at-kaldan-samudhra-palace/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 525.75,
+        "heroBottom": 707.75,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/the-perfect-family-getaway-activities-and-amenities-for-all-ages-at-kaldan-samudhra-palace/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/the-perfect-family-getaway-activities-and-amenities-for-all-ages-at-kaldan-samudhra-palace/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 474.875,
+        "heroBottom": 630.625,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/embark-on-forever-celebrate-your-dream-beach-wedding-at-kaldan-samudhra-palace/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/embark-on-forever-celebrate-your-dream-beach-wedding-at-kaldan-samudhra-palace/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 474.875,
+        "heroBottom": 656.875,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/family-friendly-luxury-unforgettable-memories-await-at-kaldan-samudhra-palace-ecr/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/family-friendly-luxury-unforgettable-memories-await-at-kaldan-samudhra-palace-ecr/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 525.75,
+        "heroBottom": 707.75,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/choosing-the-right-ecr-resort-with-a-pool-for-your-vacation/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/choosing-the-right-ecr-resort-with-a-pool-for-your-vacation/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 424,
+        "heroBottom": 606,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/a-historical-retreat-discover-mahabalipurams-ancient-temples/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/a-historical-retreat-discover-mahabalipurams-ancient-temples/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 424,
+        "heroBottom": 606,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/a-culinary-journey-from-fine-dining-to-beachfront-bliss-at-kaldan/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/a-culinary-journey-from-fine-dining-to-beachfront-bliss-at-kaldan/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 424,
+        "heroBottom": 606,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/spend-a-weekend-in-one-of-the-best-luxury-resorts-in-mahabalipuram/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/spend-a-weekend-in-one-of-the-best-luxury-resorts-in-mahabalipuram/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 424,
+        "heroBottom": 606,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/welcome-rituals-at-our-luxury-palace-by-the-sea/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/welcome-rituals-at-our-luxury-palace-by-the-sea/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 373.125,
+        "heroBottom": 528.875,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/anthapuraa-spa-at-kaldan-samudhra-palace/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/anthapuraa-spa-at-kaldan-samudhra-palace/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 373.125,
+        "heroBottom": 555.125,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/sounds-of-the-ocean-beckoning-you-from-within-seashells/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/sounds-of-the-ocean-beckoning-you-from-within-seashells/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 424,
+        "heroBottom": 606,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/on-the-shores-of-mahabalipuram/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/on-the-shores-of-mahabalipuram/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 236.25,
+        "bottom": 338,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/proposals-weddings-anniversaries-parties-our-banquet/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/proposals-weddings-anniversaries-parties-our-banquet/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 474.875,
+        "heroBottom": 656.875,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/traditional-rajasthani-experience-kaldan-samudhras-unique-claim-to-fame/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/traditional-rajasthani-experience-kaldan-samudhras-unique-claim-to-fame/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 525.75,
+        "heroBottom": 707.75,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/the-journey-of-kaldan-samudhra-a-look-back-at-the-first-year/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/the-journey-of-kaldan-samudhra-a-look-back-at-the-first-year/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 424,
+        "heroBottom": 606,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/kaldan-december-2022/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/kaldan-december-2022/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 236.25,
+        "bottom": 338,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/cake-mixing-ceremony-at-kaldan-samudhra/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/cake-mixing-ceremony-at-kaldan-samudhra/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 373.125,
+        "heroBottom": 555.125,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/international-yoga-day-celebrations-at-kaldan-samudhra/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/international-yoga-day-celebrations-at-kaldan-samudhra/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 373.125,
+        "heroBottom": 555.125,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/jcb-dealers-meet-2022-at-the-kaldan-samudhra-ecr/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/jcb-dealers-meet-2022-at-the-kaldan-samudhra-ecr/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 373.125,
+        "heroBottom": 555.125,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/best-proposal-spot-in-mahabalipuram/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/best-proposal-spot-in-mahabalipuram/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 236.25,
+        "bottom": 338,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/best-destination-beach-weddings/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/best-destination-beach-weddings/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 236.25,
+        "bottom": 338,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/5-star-hotels-in-mahabalipuram/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/5-star-hotels-in-mahabalipuram/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 236.25,
+        "bottom": 338,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/beat-the-summer-heat-in-style/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/beat-the-summer-heat-in-style/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 236.25,
+        "bottom": 338,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/kaldan-samudhra-palace-is-your-ideal-venue-for-a-beach-wedding-heres-why/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/kaldan-samudhra-palace-is-your-ideal-venue-for-a-beach-wedding-heres-why/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 474.875,
+        "heroBottom": 630.625,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/weekend-getaway-in-kaldan-samudhra-palace/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/weekend-getaway-in-kaldan-samudhra-palace/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 373.125,
+        "heroBottom": 555.125,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/unveiling-the-majestic-charms-of-chennai-and-mahabalipuram/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/unveiling-the-majestic-charms-of-chennai-and-mahabalipuram/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 424,
+        "heroBottom": 527.25,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/top-5-reasons-why-kaldan-samudhra-palace-stole-my-heart-away/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/top-5-reasons-why-kaldan-samudhra-palace-stole-my-heart-away/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 474.875,
+        "heroBottom": 656.875,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/summer-vacation-at-kaldan-a-fun-filled-escape-for-the-whole-family/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/summer-vacation-at-kaldan-a-fun-filled-escape-for-the-whole-family/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 424,
+        "heroBottom": 606,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /blogs/how-to-choose-the-perfect-banquet-hall-for-your-next-event/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/blogs/how-to-choose-the-perfect-banquet-hall-for-your-next-event/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 220.5,
+        "bottom": 424,
+        "heroBottom": 606,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /gallery/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/gallery/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 288.75,
+        "bottom": 390.5,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /gallery/images/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/gallery/images/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 262.5,
+        "bottom": 364.25,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /gallery/videos/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/gallery/videos/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 288.75,
+        "bottom": 390.5,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /location/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/location/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 262.5,
+        "bottom": 364.25,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /contact-us/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/contact-us/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 262.5,
+        "bottom": 364.25,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /faqs/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/faqs/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 262.5,
+        "bottom": 364.25,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /terms-conditions/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/terms-conditions/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 262.5,
+        "bottom": 364.25,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: /about-juju/ layout",
+      "passed": true,
+      "detail": {
+        "path": "/about-juju/",
+        "h1": 1,
+        "overflow": 0,
+        "top": 262.5,
+        "bottom": 364.25,
+        "heroBottom": 520,
+        "broken": []
+      }
+    },
+    {
+      "name": "mobile: no JavaScript exceptions",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "narrow: opening heading visible",
+      "passed": true
+    },
+    {
+      "name": "narrow: no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "narrow: menu opens by pointer",
+      "passed": true
+    },
+    {
+      "name": "narrow: menu keyboard focus remains inside",
+      "passed": true
+    },
+    {
+      "name": "narrow: Escape closes and restores focus",
+      "passed": true
+    },
+    {
+      "name": "narrow: visible menu close works",
+      "passed": true
+    },
+    {
+      "name": "narrow: reservation handoff present",
+      "passed": true
+    },
+    {
+      "name": "narrow: background film pauses",
+      "passed": true
+    },
+    {
+      "name": "narrow: palace film plays",
+      "passed": true
+    },
+    {
+      "name": "narrow: closing film pauses it",
+      "passed": true
+    },
+    {
+      "name": "narrow: dark header theme",
+      "passed": true
+    },
+    {
+      "name": "narrow: experience changes image and text",
+      "passed": true
+    },
+    {
+      "name": "narrow: experience text does not overlap controls",
+      "passed": true
+    },
+    {
+      "name": "narrow: light header and readable dining",
+      "passed": true
+    },
+    {
+      "name": "narrow: villas filter",
+      "passed": true
+    },
+    {
+      "name": "narrow: no-results message",
+      "passed": true
+    },
+    {
+      "name": "narrow: filters reset",
+      "passed": true
+    },
+    {
+      "name": "narrow: gallery lightbox opens",
+      "passed": true
+    },
+    {
+      "name": "narrow: gallery next via keyboard",
+      "passed": true
+    },
+    {
+      "name": "narrow: FAQ search",
+      "passed": true
+    },
+    {
+      "name": "narrow: FAQ opens",
+      "passed": true
+    },
+    {
+      "name": "narrow: accommodation enquiry prefilled",
+      "passed": true
+    },
+    {
+      "name": "narrow: required-field validation",
+      "passed": true
+    },
+    {
+      "name": "narrow: unavailable delivery is honest",
+      "passed": true
+    },
+    {
+      "name": "narrow: enquiry download prepared",
+      "passed": true
+    },
+    {
+      "name": "narrow: no JavaScript exceptions",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "tablet: opening heading visible",
+      "passed": true
+    },
+    {
+      "name": "tablet: no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "tablet: menu opens by pointer",
+      "passed": true
+    },
+    {
+      "name": "tablet: menu keyboard focus remains inside",
+      "passed": true
+    },
+    {
+      "name": "tablet: Escape closes and restores focus",
+      "passed": true
+    },
+    {
+      "name": "tablet: visible menu close works",
+      "passed": true
+    },
+    {
+      "name": "tablet: reservation handoff present",
+      "passed": true
+    },
+    {
+      "name": "tablet: background film pauses",
+      "passed": true
+    },
+    {
+      "name": "tablet: palace film plays",
+      "passed": true
+    },
+    {
+      "name": "tablet: closing film pauses it",
+      "passed": true
+    },
+    {
+      "name": "tablet: dark header theme",
+      "passed": true
+    },
+    {
+      "name": "tablet: experience changes image and text",
+      "passed": true
+    },
+    {
+      "name": "tablet: experience text does not overlap controls",
+      "passed": true
+    },
+    {
+      "name": "tablet: light header and readable dining",
+      "passed": true
+    },
+    {
+      "name": "tablet: villas filter",
+      "passed": true
+    },
+    {
+      "name": "tablet: no-results message",
+      "passed": true
+    },
+    {
+      "name": "tablet: filters reset",
+      "passed": true
+    },
+    {
+      "name": "tablet: gallery lightbox opens",
+      "passed": true
+    },
+    {
+      "name": "tablet: gallery next via keyboard",
+      "passed": true
+    },
+    {
+      "name": "tablet: FAQ search",
+      "passed": true
+    },
+    {
+      "name": "tablet: FAQ opens",
+      "passed": true
+    },
+    {
+      "name": "tablet: accommodation enquiry prefilled",
+      "passed": true
+    },
+    {
+      "name": "tablet: required-field validation",
+      "passed": true
+    },
+    {
+      "name": "tablet: unavailable delivery is honest",
+      "passed": true
+    },
+    {
+      "name": "tablet: enquiry download prepared",
+      "passed": true
+    },
+    {
+      "name": "tablet: no JavaScript exceptions",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "reduced: opening heading visible",
+      "passed": true
+    },
+    {
+      "name": "reduced: no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "reduced: menu opens by pointer",
+      "passed": true
+    },
+    {
+      "name": "reduced: menu keyboard focus remains inside",
+      "passed": true
+    },
+    {
+      "name": "reduced: Escape closes and restores focus",
+      "passed": true
+    },
+    {
+      "name": "reduced: visible menu close works",
+      "passed": true
+    },
+    {
+      "name": "reduced: reservation handoff present",
+      "passed": true
+    },
+    {
+      "name": "reduced: no automatic film or sticky expansion",
+      "passed": true
+    },
+    {
+      "name": "reduced: dark header theme",
+      "passed": true
+    },
+    {
+      "name": "reduced: experience changes image and text",
+      "passed": true
+    },
+    {
+      "name": "reduced: experience text does not overlap controls",
+      "passed": true
+    },
+    {
+      "name": "reduced: light header and readable dining",
+      "passed": true
+    },
+    {
+      "name": "reduced: villas filter",
+      "passed": true
+    },
+    {
+      "name": "reduced: no-results message",
+      "passed": true
+    },
+    {
+      "name": "reduced: filters reset",
+      "passed": true
+    },
+    {
+      "name": "reduced: gallery lightbox opens",
+      "passed": true
+    },
+    {
+      "name": "reduced: gallery next via keyboard",
+      "passed": true
+    },
+    {
+      "name": "reduced: FAQ search",
+      "passed": true
+    },
+    {
+      "name": "reduced: FAQ opens",
+      "passed": true
+    },
+    {
+      "name": "reduced: accommodation enquiry prefilled",
+      "passed": true
+    },
+    {
+      "name": "reduced: required-field validation",
+      "passed": true
+    },
+    {
+      "name": "reduced: unavailable delivery is honest",
+      "passed": true
+    },
+    {
+      "name": "reduced: enquiry download prepared",
+      "passed": true
+    },
+    {
+      "name": "reduced: no JavaScript exceptions",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "nojs: opening heading visible",
+      "passed": true
+    },
+    {
+      "name": "nojs: no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "nojs: dining text visible",
+      "passed": true
+    },
+    {
+      "name": "nojs: all three stay cards remain in layout",
+      "passed": true
+    },
+    {
+      "name": "nojs: static navigation available",
+      "passed": true
+    },
+    {
+      "name": "nojs: no JavaScript exceptions",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "blocked-module: opening heading visible",
+      "passed": true
+    },
+    {
+      "name": "blocked-module: no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "blocked-module: dining text visible",
+      "passed": true
+    },
+    {
+      "name": "blocked-module: all three stay cards remain in layout",
+      "passed": true
+    },
+    {
+      "name": "blocked-module: no JavaScript exceptions",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "asset-failure: opening heading visible",
+      "passed": true
+    },
+    {
+      "name": "asset-failure: no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "asset-failure: dining text visible",
+      "passed": true
+    },
+    {
+      "name": "asset-failure: all three stay cards remain in layout",
+      "passed": true
+    },
+    {
+      "name": "asset-failure: no JavaScript exceptions",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "download contains actual enquiry, not a confirmation",
+      "passed": true
+    }
+  ],
+  "failures": []
+}

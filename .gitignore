@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Build outputs (rebuildable with npm run build)
+dist/
+kaldan-site/dist/
+
+# Raw media library, verification screenshots, historical artifacts (kept locally only)
+capture/*
+!capture/premium-verification.json
+/media/
+/site-code/
+/prototype/
+
+# Large archive backups (kept locally only)
+/kaldan-concept-deploy.zip
+/kaldan-premium-*.zip

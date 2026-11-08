@@ -1,0 +1,21 @@
+{
+  "name": "kaldan-samudhra",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Kaldan Samudhra Palace — complete multipage design concept",
+  "scripts": {
+    "dev": "node render.mjs && vite",
+    "build": "node render.mjs && vite build",
+    "start": "node server.mjs",
+    "test": "node --test server.test.mjs",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "gsap": "^3.13.0",
+    "lenis": "^1.3.11"
+  },
+  "devDependencies": {
+    "vite": "^7.1.12"
+  }
+}

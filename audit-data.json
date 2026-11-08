@@ -1,0 +1,1084 @@
+{
+  "screenshots": {
+    "shots": {
+      "desktop_full": {
+        "path": "capture/desktop/home-desktop-full.png",
+        "exists": true,
+        "size": [
+          1440,
+          8398
+        ],
+        "bytes": 8773318,
+        "uniqueColors": 69100,
+        "bandBrightness": [
+          100.5,
+          194.5,
+          153.0,
+          174.6,
+          224.9,
+          196.3,
+          191.0,
+          178.6,
+          218.7,
+          98.9,
+          255.0
+        ],
+        "blankBands": 0
+      },
+      "mobile_full": {
+        "path": "capture/mobile/home-mobile-full.png",
+        "exists": true,
+        "size": [
+          390,
+          7412
+        ],
+        "bytes": 2516263,
+        "uniqueColors": 148598,
+        "bandBrightness": [
+          78.6,
+          186.5,
+          150.1,
+          215.0,
+          211.5,
+          170.0,
+          188.8,
+          187.7,
+          226.9,
+          106.8,
+          52.2
+        ],
+        "blankBands": 0
+      }
+    },
+    "desktop_segments": [
+      {
+        "path": "capture/desktop/home-desktop-segments/seg-00.png",
+        "exists": true,
+        "size": [
+          1440,
+          900
+        ],
+        "bytes": 746666,
+        "uniqueColors": 7273,
+        "bandBrightness": [
+          95.0,
+          50.5,
+          110.5,
+          119.6,
+          103.3,
+          107.4,
+          120.9,
+          101.9,
+          82.5,
+          76.7
+        ],
+        "blankBands": 0
+      },
+      {
+        "path": "capture/desktop/home-desktop-segments/seg-01.png",
+        "exists": true,
+        "size": [
+          1440,
+          900
+        ],
+        "bytes": 998410,
+        "uniqueColors": 8423,
+        "bandBrightness": [
+          95.0,
+          71.9,
+          129.2,
+          140.3,
+          119.9,
+          140.4,
+          147.4,
+          115.2,
+          77.2,
+          75.5
+        ],
+        "blankBands": 0
+      },
+      {
+        "path": "capture/desktop/home-desktop-segments/seg-02.png",
+        "exists": true,
+        "size": [
+          1440,
+          900
+        ],
+        "bytes": 1109783,
+        "uniqueColors": 8282,
+        "bandBrightness": [
+          95.0,
+          55.2,
+          128.4,
+          145.0,
+          127.8,
+          115.3,
+          113.2,
+          79.6,
+          21.6,
+          27.5
+        ],
+        "blankBands": 0
+      },
+      {
+        "path": "capture/desktop/home-desktop-segments/seg-03.png",
+        "exists": true,
+        "size": [
+          1440,
+          900
+        ],
+        "bytes": 763943,
+        "uniqueColors": 5802,
+        "bandBrightness": [
+          95.0,
+          73.7,
+          138.0,
+          144.1,
+          123.0,
+          127.6,
+          141.6,
+          122.5,
+          96.4,
+          86.6
+        ],
+        "blankBands": 0
+      },
+      {
+        "path": "capture/desktop/home-desktop-segments/seg-04.png",
+        "exists": true,
+        "size": [
+          1440,
+          900
+        ],
+        "bytes": 1068102,
+        "uniqueColors": 8208,
+        "bandBrightness": [
+          95.0,
+          78.4,
+          139.1,
+          151.9,
+          134.0,
+          135.2,
+          133.9,
+          97.5,
+          39.3,
+          60.6
+        ],
+        "blankBands": 0
+      },
+      {
+        "path": "capture/desktop/home-desktop-segments/seg-05.png",
+        "exists": true,
+        "size": [
+          1440,
+          900
+        ],
+        "bytes": 830519,
+        "uniqueColors": 7244,
+        "bandBrightness": [
+          95.0,
+          84.8,
+          144.2,
+          150.8,
+          130.9,
+          135.4,
+          141.0,
+          107.2,
+          53.7,
+          55.8
+        ],
+        "blankBands": 0
+      },
+      {
+        "path": "capture/desktop/home-desktop-segments/seg-06.png",
+        "exists": true,
+        "size": [
+          1440,
+          900
+        ],
+        "bytes": 771823,
+        "uniqueColors": 6842,
+        "bandBrightness": [
+          95.0,
+          80.6,
+          142.0,
+          150.9,
+          121.7,
+          108.4,
+          122.9,
+          89.8,
+          39.9,
+          42.6
+        ],
+        "blankBands": 0
+      },
+      {
+        "path": "capture/desktop/home-desktop-segments/seg-07.png",
+        "exists": true,
+        "size": [
+          1440,
+          900
+        ],
+        "bytes": 732224,
+        "uniqueColors": 4421,
+        "bandBrightness": [
+          95.0,
+          84.9,
+          146.5,
+          141.5,
+          128.0,
+          134.9,
+          147.9,
+          115.5,
+          97.5,
+          90.2
+        ],
+        "blankBands": 0
+      },
+      {
+        "path": "capture/desktop/home-desktop-segments/seg-08.png",
+        "exists": true,
+        "size": [
+          1440,
+          900
+        ],
+        "bytes": 731490,
+        "uniqueColors": 3946,
+        "bandBrightness": [
+          95.0,
+          83.8,
+          143.5,
+          149.4,
+          130.5,
+          119.2,
+          113.2,
+          81.6,
+          27.1,
+          24.5
+        ],
+        "blankBands": 0
+      },
+      {
+        "path": "capture/desktop/home-desktop-segments/seg-09.png",
+        "exists": true,
+        "size": [
+          1440,
+          900
+        ],
+        "bytes": 750721,
+        "uniqueColors": 3880,
+        "bandBrightness": [
+          95.0,
+          80.2,
+          140.1,
+          111.8,
+          94.8,
+          102.6,
+          113.4,
+          81.3,
+          24.4,
+          23.2
+        ],
+        "blankBands": 0
+      }
+    ]
+  },
+  "payload": {
+    "byType": {
+      "text/html": [
+        231,
+        44568229
+      ],
+      "application/xml": [
+        1,
+        263
+      ],
+      "image/png": [
+        244,
+        171809644
+      ],
+      "application/javascript": [
+        12,
+        2256110
+      ],
+      "text/javascript": [
+        2,
+        30297
+      ],
+      "application/x-javascript": [
+        1,
+        377
+      ],
+      "text/css": [
+        10,
+        1718791
+      ],
+      "image/jpeg": [
+        66,
+        15220703
+      ],
+      "text/plain": [
+        17,
+        1393
+      ],
+      "application/pdf": [
+        1,
+        13023591
+      ]
+    },
+    "largest": [
+      {
+        "url": "https://cdn1.simplotel.com/generic_uploads/production/ZXrWMyLd/accord_group_corporate_profile_2025_feb_20_2025_compressed.pdf",
+        "host": "cdn1.simplotel.com",
+        "ext": "pdf",
+        "status": 200,
+        "bytes": 13023591,
+        "contentType": "application/pdf",
+        "file": "assets/cdn1.simplotel.com/generic_uploads/production/ZXrWMyLd/accord_group_corporate_profile_2025_feb_20_2025_compressed.pdf"
+      },
+      {
+        "url": "https://assets.simplotel.com/simplotel/image/upload/w_5000,h_3336/x_1560,y_0,w_2694,h_3336,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/kaldan-samudhra-palace/Executive_Studio_Villa_3_hy3yli",
+        "host": "assets.simplotel.com",
+        "ext": "",
+        "status": 200,
+        "bytes": 2128735,
+        "contentType": "image/png",
+        "file": "assets/assets.simplotel.com/simplotel/image/upload/w_5000_h_3336/x_1560_y_0_w_2694_h_3336_r_0_c_crop/q_80_w_1600_dpr_1_f_auto_fl_progressive_c_limit/kaldan-samudhra-palace/Executive_Studio_Villa_3_hy3yli.bin"
+      },
+      {
+        "url": "https://assets.simplotel.com/simplotel/image/upload/w_5000,h_3892/x_1592,y_0,w_3143,h_3892,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/kaldan-samudhra-palace/Premium_Luxury_Villa08_tvjomi",
+        "host": "assets.simplotel.com",
+        "ext": "",
+        "status": 200,
+        "bytes": 2102466,
+        "contentType": "image/png",
+        "file": "assets/assets.simplotel.com/simplotel/image/upload/w_5000_h_3892/x_1592_y_0_w_3143_h_3892_r_0_c_crop/q_80_w_1600_dpr_1_f_auto_fl_progressive_c_limit/kaldan-samudhra-palace/Premium_Luxury_Villa08_tvjomi.bin"
+      },
+      {
+        "url": "https://assets.simplotel.com/simplotel/image/upload/w_5000,h_3892/x_1581,y_0,w_3143,h_3892,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/kaldan-samudhra-palace/Premium_Luxury_Villa08_tvjomi",
+        "host": "assets.simplotel.com",
+        "ext": "",
+        "status": 200,
+        "bytes": 2102229,
+        "contentType": "image/png",
+        "file": "assets/assets.simplotel.com/simplotel/image/upload/w_5000_h_3892/x_1581_y_0_w_3143_h_3892_r_0_c_crop/q_80_w_1600_dpr_1_f_auto_fl_progressive_c_limit/kaldan-samudhra-palace/Premium_Luxury_Villa08_tvjomi.bin"
+      },
+      {
+        "url": "https://assets.simplotel.com/simplotel/image/upload/w_5000,h_3336/x_1506,y_0,w_2694,h_3336,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/kaldan-samudhra-palace/Executive_Studio_Villa_3_hy3yli",
+        "host": "assets.simplotel.com",
+        "ext": "",
+        "status": 200,
+        "bytes": 2096134,
+        "contentType": "image/png",
+        "file": "assets/assets.simplotel.com/simplotel/image/upload/w_5000_h_3336/x_1506_y_0_w_2694_h_3336_r_0_c_crop/q_80_w_1600_dpr_1_f_auto_fl_progressive_c_limit/kaldan-samudhra-palace/Executive_Studio_Villa_3_hy3yli.bin"
+      },
+      {
+        "url": "https://assets.simplotel.com/simplotel/image/upload/x_98,y_0,w_2044,h_1493,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/kaldan-samudhra-palace/Suite_Bathroom",
+        "host": "assets.simplotel.com",
+        "ext": "",
+        "status": 200,
+        "bytes": 1901517,
+        "contentType": "image/png",
+        "file": "assets/assets.simplotel.com/simplotel/image/upload/x_98_y_0_w_2044_h_1493_r_0_c_crop/q_80_w_1600_dpr_1_f_auto_fl_progressive_c_limit/kaldan-samudhra-palace/Suite_Bathroom.bin"
+      },
+      {
+        "url": "https://assets.simplotel.com/simplotel/image/upload/x_98,y_0,w_2044,h_1493,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/kaldan-samudhra-palace/Bathroom_of_King_Size_Rooms",
+        "host": "assets.simplotel.com",
+        "ext": "",
+        "status": 200,
+        "bytes": 1864476,
+        "contentType": "image/png",
+        "file": "assets/assets.simplotel.com/simplotel/image/upload/x_98_y_0_w_2044_h_1493_r_0_c_crop/q_80_w_1600_dpr_1_f_auto_fl_progressive_c_limit/kaldan-samudhra-palace/Bathroom_of_King_Size_Rooms.bin"
+      },
+      {
+        "url": "https://assets.simplotel.com/simplotel/image/upload/w_3333,h_5000/x_0,y_27,w_3333,h_4946,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/kaldan-samudhra-palace/micah-mckerlich-WNMfEYSlyUY-unsplash_h6fwkw",
+        "host": "assets.simplotel.com",
+        "ext": "",
+        "status": 200,
+        "bytes": 1840768,
+        "contentType": "image/png",
+        "file": "assets/assets.simplotel.com/simplotel/image/upload/w_3333_h_5000/x_0_y_27_w_3333_h_4946_r_0_c_crop/q_80_w_1600_dpr_1_f_auto_fl_progressive_c_limit/kaldan-samudhra-palace/micah-mckerlich-WNMfEYSlyUY-unsplash_h6fwkw.bin"
+      },
+      {
+        "url": "https://assets.simplotel.com/simplotel/image/upload/x_421,y_0,w_1371,h_1412,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/kaldan-samudhra-palace/_MG_7628",
+        "host": "assets.simplotel.com",
+        "ext": "",
+        "status": 200,
+        "bytes": 1786690,
+        "contentType": "image/png",
+        "file": "assets/assets.simplotel.com/simplotel/image/upload/x_421_y_0_w_1371_h_1412_r_0_c_crop/q_80_w_1600_dpr_1_f_auto_fl_progressive_c_limit/kaldan-samudhra-palace/_MG_7628.bin"
+      },
+      {
+        "url": "https://assets.simplotel.com/simplotel/image/upload/x_226,y_0,w_1397,h_1440,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/kaldan-samudhra-palace/_MG_7740",
+        "host": "assets.simplotel.com",
+        "ext": "",
+        "status": 200,
+        "bytes": 1583394,
+        "contentType": "image/png",
+        "file": "assets/assets.simplotel.com/simplotel/image/upload/x_226_y_0_w_1397_h_1440_r_0_c_crop/q_80_w_1600_dpr_1_f_auto_fl_progressive_c_limit/kaldan-samudhra-palace/_MG_7740.bin"
+      },
+      {
+        "url": "https://assets.simplotel.com/simplotel/image/upload/x_98,y_0,w_2044,h_1493,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/kaldan-samudhra-palace/_A4A0662",
+        "host": "assets.simplotel.com",
+        "ext": "",
+        "status": 200,
+        "bytes": 1548453,
+        "contentType": "image/png",
+        "file": "assets/assets.simplotel.com/simplotel/image/upload/x_98_y_0_w_2044_h_1493_r_0_c_crop/q_80_w_1600_dpr_1_f_auto_fl_progressive_c_limit/kaldan-samudhra-palace/_A4A0662.bin"
+      },
+      {
+        "url": "https://assets.simplotel.com/simplotel/image/upload/x_412,y_0,w_1421,h_1493,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/kaldan-samudhra-palace/A4A0910_eridzk",
+        "host": "assets.simplotel.com",
+        "ext": "",
+        "status": 200,
+        "bytes": 1535176,
+        "contentType": "image/png",
+        "file": "assets/assets.simplotel.com/simplotel/image/upload/x_412_y_0_w_1421_h_1493_r_0_c_crop/q_80_w_1600_dpr_1_f_auto_fl_progressive_c_limit/kaldan-samudhra-palace/A4A0910_eridzk.bin"
+      },
+      {
+        "url": "https://assets.simplotel.com/simplotel/image/upload/x_0,y_39,w_4032,h_2946,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/kaldan-samudhra-palace/IMG_8466",
+        "host": "assets.simplotel.com",
+        "ext": "",
+        "status": 200,
+        "bytes": 1508759,
+        "contentType": "image/png",
+        "file": "assets/assets.simplotel.com/simplotel/image/upload/x_0_y_39_w_4032_h_2946_r_0_c_crop/q_80_w_1600_dpr_1_f_auto_fl_progressive_c_limit/kaldan-samudhra-palace/IMG_8466.bin"
+      },
+      {
+        "url": "https://assets.simplotel.com/simplotel/image/upload/w_5000,h_3333/x_219,y_0,w_4562,h_3333,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/kaldan-samudhra-palace/Suite_Room_da471562",
+        "host": "assets.simplotel.com",
+        "ext": "",
+        "status": 200,
+        "bytes": 1452349,
+        "contentType": "image/png",
+        "file": "assets/assets.simplotel.com/simplotel/image/upload/w_5000_h_3333/x_219_y_0_w_4562_h_3333_r_0_c_crop/q_80_w_1600_dpr_1_f_auto_fl_progressive_c_limit/kaldan-samudhra-palace/Suite_Room_da471562.bin"
+      },
+      {
+        "url": "https://assets.simplotel.com/simplotel/image/upload/x_98,y_0,w_2044,h_1493,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/kaldan-samudhra-palace/Premium_Palace_Suite",
+        "host": "assets.simplotel.com",
+        "ext": "",
+        "status": 200,
+        "bytes": 1437445,
+        "contentType": "image/png",
+        "file": "assets/assets.simplotel.com/simplotel/image/upload/x_98_y_0_w_2044_h_1493_r_0_c_crop/q_80_w_1600_dpr_1_f_auto_fl_progressive_c_limit/kaldan-samudhra-palace/Premium_Palace_Suite.bin"
+      }
+    ],
+    "imageBytes": 187030347,
+    "webpAvifCount": 0
+  },
+  "dom": {
+    "headerLinks": [
+      [
+        "",
+        "https://www.kaldanhotels.com/about-juju.html"
+      ],
+      [
+        "",
+        "./"
+      ],
+      [
+        "Home",
+        "https://www.kaldanhotels.com/"
+      ],
+      [
+        "About Us",
+        "././about-us"
+      ],
+      [
+        "Accommodations",
+        "././accommodations"
+      ],
+      [
+        "Offers",
+        "././offers"
+      ],
+      [
+        "Dining",
+        "././dining"
+      ],
+      [
+        "",
+        "#"
+      ],
+      [
+        "Events & Conferences",
+        "././events-conferences"
+      ],
+      [
+        "Kaldan Weddings",
+        "././kaldan-weddings"
+      ],
+      [
+        "Experiences",
+        "././experiences"
+      ],
+      [
+        "Activities",
+        "././activities"
+      ],
+      [
+        "Gallery",
+        "././gallery"
+      ],
+      [
+        "Location",
+        "././location"
+      ],
+      [
+        "Contact Us",
+        "././contact-us"
+      ],
+      [
+        "About JUJU",
+        "././about-juju"
+      ],
+      [
+        "FAQs",
+        "././faqs"
+      ],
+      [
+        "",
+        "#"
+      ]
+    ],
+    "footerLinks": [
+      [
+        "",
+        "./"
+      ],
+      [
+        "Email: reservations.samudhra@kaldanhotels.com",
+        "mailto:reservations.samudhra@kaldanhotels.com?Subject=Enquiry"
+      ],
+      [
+        "facebook, opens in a new tab",
+        "https://www.facebook.com/kaldansamudhra/"
+      ],
+      [
+        "instagram, opens in a new tab",
+        "https://www.instagram.com/kaldanhotels/"
+      ],
+      [
+        "tripadvisor, opens in a new tab",
+        "https://www.tripadvisor.in/Hotel_Review-g1162480-d24019190-Reviews-Kaldan_Samudhra_Palace-Mahabalipuram_Kanchipuram_District_Tamil_Nadu.html"
+      ],
+      [
+        "youtube, opens in a new tab",
+        "https://www.youtube.com/@KaldanSamudhraPalace"
+      ],
+      [
+        "linkedin, opens in a new tab",
+        "https://www.linkedin.com/company/kaldan-samudhra-palace/?viewAsMember=true"
+      ],
+      [
+        "",
+        "https://maps.app.goo.gl/3EQnwmQE6oRzbYnf7"
+      ],
+      [
+        "Home",
+        "././"
+      ],
+      [
+        "About Us",
+        "././about-us"
+      ],
+      [
+        "Accommodations",
+        "././accommodations"
+      ],
+      [
+        "Offers",
+        "././offers"
+      ],
+      [
+        "Dining",
+        "././dining"
+      ],
+      [
+        "Events & Conferences",
+        "././events-conferences"
+      ],
+      [
+        "Kaldan Weddings",
+        "././kaldan-weddings"
+      ],
+      [
+        "Experiences",
+        "././experiences"
+      ],
+      [
+        "Activities",
+        "././activities"
+      ],
+      [
+        "Gallery",
+        "././gallery"
+      ],
+      [
+        "Location",
+        "././location"
+      ],
+      [
+        "Contact Us",
+        "././contact-us"
+      ],
+      [
+        "Terms & Conditions",
+        "././terms-conditions"
+      ],
+      [
+        "About JUJU",
+        "././about-juju"
+      ],
+      [
+        "FAQs",
+        "././faqs"
+      ],
+      [
+        "Blogs",
+        "././blogs"
+      ],
+      [
+        "Home",
+        "https://www.kaldanhotels.com/"
+      ],
+      [
+        "Manage Booking",
+        "https://bookings.kaldanhotels.com/property/9858/bookings/manage/"
+      ],
+      [
+        "Sitemap",
+        "./sitemap.html"
+      ],
+      [
+        "Simplotel - Hotel Website Design & Booking En",
+        "//www.simplotel.com"
+      ]
+    ],
+    "headings": [
+      [
+        "h1",
+        "KALDAN SAMUDHRA PALACE - AN IMMORTAL PALACE BY THE SEA"
+      ],
+      [
+        "h2",
+        "SOLANKI-STYLED SPACES FROM FLOOR-TO-CEILING"
+      ],
+      [
+        "h4",
+        "Premium Palace Suite"
+      ],
+      [
+        "h4",
+        "Executive Studio Villa"
+      ],
+      [
+        "h4",
+        "Premium Luxury Villa"
+      ],
+      [
+        "h4",
+        "Deluxe Twin"
+      ],
+      [
+        "h4",
+        "Deluxe King Pool View"
+      ],
+      [
+        "h4",
+        "Premium Pool View"
+      ],
+      [
+        "h4",
+        "Executive Palace Suite"
+      ],
+      [
+        "h4",
+        "Premium Palace Suite"
+      ],
+      [
+        "h4",
+        "Executive Studio Villa"
+      ],
+      [
+        "h4",
+        "Premium Luxury Villa"
+      ],
+      [
+        "h4",
+        "Deluxe Twin"
+      ],
+      [
+        "h4",
+        "Deluxe King Pool View"
+      ],
+      [
+        "h4",
+        "Premium Pool View"
+      ],
+      [
+        "h2",
+        "OFFERS"
+      ],
+      [
+        "h2",
+        "ACTIVITIES FOR ALL AGES"
+      ],
+      [
+        "h2",
+        "BITES, SIPS, & SEA BREEZES"
+      ],
+      [
+        "h3",
+        "Panch Mahal (Soft Opening from 2nd October onwards)"
+      ],
+      [
+        "h3",
+        "Dhani\u2014All-day Dining"
+      ],
+      [
+        "h3",
+        "Somapuraa\u2014Bar"
+      ],
+      [
+        "h3",
+        "Sagar Bar\u2014Pool Bar"
+      ],
+      [
+        "h3",
+        "Panch Mahal (Soft Opening from 2nd October onwards)"
+      ],
+      [
+        "h3",
+        "Dhani\u2014All-day Dining"
+      ],
+      [
+        "h2",
+        "CELEBRATE WITH CHANDELIERS & STARS"
+      ],
+      [
+        "h2",
+        "MEMORABLE EXPERIENCES"
+      ],
+      [
+        "h4",
+        "Fitness Centre"
+      ],
+      [
+        "h4",
+        "Buggy"
+      ],
+      [
+        "h4",
+        "Rajasthani Traditional Welcome"
+      ],
+      [
+        "h4",
+        "Rajasthani Folk Dance"
+      ],
+      [
+        "h4",
+        "Sunrise Yoga"
+      ],
+      [
+        "h4",
+        "Puppet Shows"
+      ],
+      [
+        "h4",
+        "Lawn Gazebo"
+      ],
+      [
+        "h4",
+        "Palace High Tea"
+      ],
+      [
+        "h4",
+        "Spa"
+      ],
+      [
+        "h4",
+        "Hobby Studio"
+      ],
+      [
+        "h4",
+        "Karaoke on Hire"
+      ],
+      [
+        "h4",
+        "Air Hockey"
+      ],
+      [
+        "h4",
+        "Billiards"
+      ],
+      [
+        "h4",
+        "Shooting Zone"
+      ],
+      [
+        "h4",
+        "Pedal Go Kart"
+      ],
+      [
+        "h4",
+        "Kayaking"
+      ],
+      [
+        "h4",
+        "Pool"
+      ],
+      [
+        "h4",
+        "Fitness Centre"
+      ],
+      [
+        "h4",
+        "Buggy"
+      ],
+      [
+        "h4",
+        "Rajasthani Traditional Welcome"
+      ],
+      [
+        "h4",
+        "Rajasthani Folk Dance"
+      ],
+      [
+        "h2",
+        "AWARDS AND CERTIFICATIONS"
+      ],
+      [
+        "h2",
+        "PRAISES FOR OUR PALACE"
+      ],
+      [
+        "h3",
+        "Address"
+      ],
+      [
+        "h3",
+        "Contact us"
+      ],
+      [
+        "h3",
+        "Follow us"
+      ],
+      [
+        "h4",
+        ""
+      ],
+      [
+        "h4",
+        "Continue your booking"
+      ],
+      [
+        "h3",
+        "Get the prices emailed to you!"
+      ]
+    ],
+    "videos": [
+      "https://cdn1.simplotel.com/generic_uploads/production/ZXrWMyLd/kaldan_palace_overview_compressed_1a13rr.mp4"
+    ],
+    "iframes": [
+      "",
+      "https://www.googletagmanager.com/ns.html?id=GTM-KKD44VB",
+      "https://bookings.kaldanhotels.com/static/xdomain_cookie.html#%7B%22namespace%22%3A%22my.namespace%22%2C%22window_origin%22%3A%22https%3A%2F%2Fwww.kaldanhotels.com%22%2C%22iframe_origin%22%3A%22https%3A%2F%2Fbookings.kaldanhotels.com%2Fstatic%22%2C%22debug%22%3Afalse%7D"
+    ],
+    "imageCount": 80,
+    "lazyImages": 0,
+    "imagesMissingAlt": 1,
+    "scripts": [
+      "https://www.clarity.ms/tag/rwqf8nx2av?ref=gtm",
+      "https://www.clarity.ms/tag/rwqf8nx2av?ref=gtm",
+      "https://www.clarity.ms/tag/rwqf8nx2av?ref=gtm",
+      "https://www.clarity.ms/tag/rwqf8nx2av?ref=gtm",
+      "https://scripts.clarity.ms/0.8.77-beta/clarity.js",
+      "https://www.clarity.ms/tag/rwqf8nx2av?ref=gtm",
+      "https://www.tripadvisor.in/WidgetEmbed-selfserveprop?border=true&popIdx=true&iswide=true&locationId=24019190&display_version=2&uniq=210&rating=true&lang=en_IN&nreviews=4&writereviewlink=true",
+      "https://www.clarity.ms/tag/rwqf8nx2av?ref=gtm",
+      "https://www.clarity.ms/tag/rwqf8nx2av?ref=gtm",
+      "https://www.clarity.ms/tag/rwqf8nx2av?ref=gtm",
+      "https://www.clarity.ms/tag/rwqf8nx2av?ref=gtm",
+      "https://www.clarity.ms/tag/rwqf8nx2av?ref=gtm",
+      "https://www.clarity.ms/tag/rwqf8nx2av?ref=gtm",
+      "https://www.clarity.ms/tag/bv09dy7f2c",
+      "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "https://www.clarity.ms/tag/rwqf8nx2av?ref=gtm",
+      "https://www.clarity.ms/tag/rwqf8nx2av?ref=gtm",
+      "https://www.clarity.ms/tag/rwqf8nx2av?ref=gtm",
+      "https://www.clarity.ms/tag/rwqf8nx2av?ref=gtm",
+      "https://www.clarity.ms/tag/rwqf8nx2av?ref=gtm",
+      "https://www.googletagmanager.com/gtag/js?id=G-DMYPKC176S&cx=c&gtm=4e6b41",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-KKD44VB",
+      "https://connect.facebook.net/signals/config/969633144245994?v=2.9.438&r=stable&domain=www.kaldanhotels.com&hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C37%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C54%2C56%2C127%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189%2C276%2C274%2C269%2C271%2C272%2C273%2C270%2C268%2C255%2C275%2C277%2C267%2C218%2C219%2C279%2C278%2C280%2C266%2C265%2C364%2C231%2C226%2C229%2C230%2C208%2C224%2C399%2C207%2C227%2C228%2C259%2C225%2C223%2C287%2C243%2C216%2C217%2C213%2C214%2C215%2C212%2C210%2C221%2C222%2C220%2C336%2C392%2C357%2C358%2C360%2C361%2C359%2C356%2C355%2C232%2C290%2C297%2C298%2C291%2C293%2C296%2C294%2C295%2C292%2C289%2C308%2C302%2C305%2C301%2C309%2C306%2C300%2C304%2C307%2C303%2C299%2C351%2C368",
+      "https://connect.facebook.net/signals/config/1316947592212498?v=2.9.438&r=stable&domain=www.kaldanhotels.com&hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C37%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C54%2C56%2C127%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://www.googletagmanager.com/gtag/js?id=AW-10884276075",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10884276075/?random=1794036453262&cv=11&fst=1794036453262&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b41v9137057847za208zd9137057847xecxf1&gcd=13l3l3R3l5l1&dma=0&tag_exp=115938465~115938469~117776795~118897920~118897930~120213116~120385423~120412526~120420416~120469145~120469153~121191155~121246026~121246034~123814183~124013661&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.kaldanhotels.com%2F&rcb=13&frm=0&tiba=Kaldan%20Samudhra%3A%205%20Star%20Hotel%2C%20Resort%20in%20Mahabalipuram%2C%20ECR&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1515984452.1794036453&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.80%7CGoogle%2520Chrome%3B156.0.8078.80&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+      "https://static.sojern.com/utils/sjrn_autocx.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-X88QT57E8P",
+      "https://www.jscache.com/wejs?wtype=selfserveprop&uniq=210&locationId=24019190&lang=en_IN&rating=true&nreviews=4&writereviewlink=true&popIdx=true&iswide=true&border=true&display_version=2",
+      "https://cdn.jsdelivr.net/npm/intl-tel-input@24.5.0/build/js/intlTelInput.min.js",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10884276075/?random=1794036456233&cv=11&fst=1794036456233&bg=ffffff&guid=ON&async=1&gtm=45be6b41v9137057847z8862426686za200zd9137057847xeaxf1&gcd=13l3l3R3l5l1&dma=0&tag_exp=115938465~115938469~117776795~118897920~118897930~120213116~120385423~120412526~120420416~120469145~120469153~121191155~121246026~121246034~123814183~124013661&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.kaldanhotels.com%2F&rcb=13&frm=0&tiba=Kaldan%20Samudhra%3A%205%20Star%20Hotel%2C%20Resort%20in%20Mahabalipuram%2C%20ECR&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1515984452.1794036453&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.80%7CGoogle%2520Chrome%3B156.0.8078.80&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&_tu=CA&ept=9&rfmt=3&fmt=4",
+      "https://beacon.sojern.com/pixel/p/427281?f_v=v6_js&p_v=2&id=427281&cid=&f_v=v6_js&p_v=1&version=5&ws=1440x900&tz=-330&vid=hot&domain=https%3A%2F%2Fwww.kaldanhotels.com%2F&s=ccid_ga%7Cccid_auto%7Cdeiced&ccid=271666306.1794036453%7Ca72q4-lg8wl-29gy3-bwb3p-vpwbp",
+      "https://cdn.plyr.io/3.6.3/plyr.polyfilled.js",
+      "https://static.tacdn.com/js3/build/concat/widget/cdswidgets_m-c-v22480917520a.js",
+      "https://cdn1.simplotel.com/sites/common/js/simp-booking-form.min.js",
+      "https://bookings.kaldanhotels.com/static/xdomain_cookie.min.js",
+      "https://cdnjs.cloudflare.com/ajax/libs/jssor-slider/27.5.0/jssor.slider.min.js",
+      "https://cdn1.simplotel.com/sites/production/live/46CBCCAC9279D06C/js/simp-lib-bundle.min.js",
+      "https://cdn1.simplotel.com/sites/common/js/bookingengine.min.js",
+      "https://cdnjs.cloudflare.com/ajax/libs/jQuery-viewport-checker/1.8.8/jquery.viewportchecker.min.js",
+      ""
+    ],
+    "forms": 1
+  },
+  "design": {
+    "fonts": [
+      [
+        "Font Awesome 5 Pro",
+        148
+      ],
+      [
+        "Font Awesome 5 Brands",
+        55
+      ],
+      [
+        "sans-serif",
+        21
+      ],
+      [
+        "serif",
+        17
+      ],
+      [
+        "Montel",
+        16
+      ],
+      [
+        "Alegreya Sans",
+        13
+      ],
+      [
+        "Alegreya sans",
+        8
+      ],
+      [
+        "inherit",
+        4
+      ],
+      [
+        "Arial",
+        4
+      ],
+      [
+        "monospace",
+        4
+      ],
+      [
+        "Font Awesome 5 Duotone",
+        2
+      ],
+      [
+        "Playfair Display",
+        2
+      ],
+      [
+        "Trebuchet MS",
+        2
+      ],
+      [
+        "Tahoma",
+        2
+      ],
+      [
+        "Verdana",
+        2
+      ]
+    ],
+    "colors": [
+      [
+        "#1e3b3d",
+        215
+      ],
+      [
+        "#272727",
+        51
+      ],
+      [
+        "#fffdf6",
+        27
+      ],
+      [
+        "#00b3ff",
+        18
+      ],
+      [
+        "#162a2c",
+        18
+      ],
+      [
+        "#2c4d52",
+        17
+      ],
+      [
+        "#0d1a1b",
+        14
+      ],
+      [
+        "#407d81",
+        12
+      ],
+      [
+        "#4a5464",
+        10
+      ],
+      [
+        "#565a5c",
+        9
+      ],
+      [
+        "#f5f5f5",
+        8
+      ],
+      [
+        "#e6e6e6",
+        6
+      ],
+      [
+        "#d08511",
+        6
+      ],
+      [
+        "#3c763d",
+        6
+      ],
+      [
+        "#8a6d3b",
+        6
+      ],
+      [
+        "#a94442",
+        6
+      ],
+      [
+        "#080808",
+        6
+      ],
+      [
+        "#9d9d9d",
+        6
+      ],
+      [
+        "#e5e5e5",
+        5
+      ],
+      [
+        "#e7e7e7",
+        5
+      ]
+    ],
+    "cssFiles": 8
+  }
+}

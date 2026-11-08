@@ -1,0 +1,1320 @@
+{
+ "images": [
+  {
+   "name": "hero-poster",
+   "w": 420,
+   "bytes": 13654
+  },
+  {
+   "name": "hero-poster",
+   "w": 520,
+   "bytes": 19752
+  },
+  {
+   "name": "hero-poster",
+   "w": 800,
+   "bytes": 39310
+  },
+  {
+   "name": "hero-poster",
+   "w": 1000,
+   "bytes": 53278
+  },
+  {
+   "name": "hero-poster",
+   "w": 1200,
+   "bytes": 66824
+  },
+  {
+   "name": "hero-poster",
+   "w": 1280,
+   "bytes": 71012
+  },
+  {
+   "name": "hero-poster",
+   "w": 1600,
+   "bytes": 89696
+  },
+  {
+   "name": "hero-poster",
+   "w": 1920,
+   "bytes": 89696
+  },
+  {
+   "name": "pool-approach",
+   "w": 420,
+   "bytes": 12322
+  },
+  {
+   "name": "pool-approach",
+   "w": 520,
+   "bytes": 17700
+  },
+  {
+   "name": "pool-approach",
+   "w": 800,
+   "bytes": 34522
+  },
+  {
+   "name": "pool-approach",
+   "w": 1000,
+   "bytes": 46984
+  },
+  {
+   "name": "pool-approach",
+   "w": 1200,
+   "bytes": 57762
+  },
+  {
+   "name": "pool-approach",
+   "w": 1280,
+   "bytes": 62684
+  },
+  {
+   "name": "pool-approach",
+   "w": 1600,
+   "bytes": 79908
+  },
+  {
+   "name": "pool-approach",
+   "w": 1920,
+   "bytes": 79908
+  },
+  {
+   "name": "A4A0910_eridzk",
+   "w": 420,
+   "bytes": 21154
+  },
+  {
+   "name": "A4A0910_eridzk",
+   "w": 520,
+   "bytes": 32080
+  },
+  {
+   "name": "A4A0910_eridzk",
+   "w": 800,
+   "bytes": 70268
+  },
+  {
+   "name": "A4A0910_eridzk",
+   "w": 1000,
+   "bytes": 106538
+  },
+  {
+   "name": "A4A0910_eridzk",
+   "w": 1200,
+   "bytes": 145854
+  },
+  {
+   "name": "A4A0910_eridzk",
+   "w": 1280,
+   "bytes": 165060
+  },
+  {
+   "name": "A4A0910_eridzk",
+   "w": 1600,
+   "bytes": 236126
+  },
+  {
+   "name": "A4A0910_eridzk",
+   "w": 1920,
+   "bytes": 308060
+  },
+  {
+   "name": "9db9613c98c051dc7a97ddf8a2665bff_gmo61g",
+   "w": 420,
+   "bytes": 22424
+  },
+  {
+   "name": "9db9613c98c051dc7a97ddf8a2665bff_gmo61g",
+   "w": 520,
+   "bytes": 34188
+  },
+  {
+   "name": "9db9613c98c051dc7a97ddf8a2665bff_gmo61g",
+   "w": 640,
+   "bytes": 49882
+  },
+  {
+   "name": "9db9613c98c051dc7a97ddf8a2665bff_gmo61g",
+   "w": 800,
+   "bytes": 78890
+  },
+  {
+   "name": "9db9613c98c051dc7a97ddf8a2665bff_gmo61g",
+   "w": 1000,
+   "bytes": 123600
+  },
+  {
+   "name": "9db9613c98c051dc7a97ddf8a2665bff_gmo61g",
+   "w": 1200,
+   "bytes": 173680
+  },
+  {
+   "name": "9db9613c98c051dc7a97ddf8a2665bff_gmo61g",
+   "w": 1600,
+   "bytes": 295868
+  },
+  {
+   "name": "_A4A7744",
+   "w": 420,
+   "bytes": 19962
+  },
+  {
+   "name": "_A4A7744",
+   "w": 520,
+   "bytes": 27350
+  },
+  {
+   "name": "_A4A7744",
+   "w": 800,
+   "bytes": 49866
+  },
+  {
+   "name": "_A4A7744",
+   "w": 1000,
+   "bytes": 67452
+  },
+  {
+   "name": "_A4A7744",
+   "w": 1200,
+   "bytes": 85356
+  },
+  {
+   "name": "_A4A7744",
+   "w": 1600,
+   "bytes": 125380
+  },
+  {
+   "name": "_MG_7693",
+   "w": 420,
+   "bytes": 11728
+  },
+  {
+   "name": "_MG_7693",
+   "w": 520,
+   "bytes": 16670
+  },
+  {
+   "name": "_MG_7693",
+   "w": 640,
+   "bytes": 22700
+  },
+  {
+   "name": "_MG_7693",
+   "w": 800,
+   "bytes": 33332
+  },
+  {
+   "name": "_MG_7693",
+   "w": 1000,
+   "bytes": 47816
+  },
+  {
+   "name": "_MG_7693",
+   "w": 1200,
+   "bytes": 63896
+  },
+  {
+   "name": "_MG_7693",
+   "w": 1600,
+   "bytes": 100236
+  },
+  {
+   "name": "Kaldan0356_copy_96cdbf45",
+   "w": 420,
+   "bytes": 13966
+  },
+  {
+   "name": "Kaldan0356_copy_96cdbf45",
+   "w": 520,
+   "bytes": 20060
+  },
+  {
+   "name": "Kaldan0356_copy_96cdbf45",
+   "w": 640,
+   "bytes": 29772
+  },
+  {
+   "name": "Kaldan0356_copy_96cdbf45",
+   "w": 800,
+   "bytes": 44252
+  },
+  {
+   "name": "Kaldan0356_copy_96cdbf45",
+   "w": 1000,
+   "bytes": 68486
+  },
+  {
+   "name": "Kaldan0356_copy_96cdbf45",
+   "w": 1200,
+   "bytes": 96948
+  },
+  {
+   "name": "Kaldan0356_copy_96cdbf45",
+   "w": 1600,
+   "bytes": 162216
+  },
+  {
+   "name": "DJI_0637",
+   "w": 420,
+   "bytes": 11110
+  },
+  {
+   "name": "DJI_0637",
+   "w": 520,
+   "bytes": 15858
+  },
+  {
+   "name": "DJI_0637",
+   "w": 800,
+   "bytes": 34666
+  },
+  {
+   "name": "DJI_0637",
+   "w": 1000,
+   "bytes": 53744
+  },
+  {
+   "name": "DJI_0637",
+   "w": 1200,
+   "bytes": 74602
+  },
+  {
+   "name": "DJI_0637",
+   "w": 1280,
+   "bytes": 84072
+  },
+  {
+   "name": "DJI_0637",
+   "w": 1600,
+   "bytes": 124090
+  },
+  {
+   "name": "DJI_0637",
+   "w": 1920,
+   "bytes": 167286
+  },
+  {
+   "name": "MG_7470",
+   "w": 420,
+   "bytes": 26248
+  },
+  {
+   "name": "MG_7470",
+   "w": 520,
+   "bytes": 39650
+  },
+  {
+   "name": "MG_7470",
+   "w": 640,
+   "bytes": 57460
+  },
+  {
+   "name": "MG_7470",
+   "w": 800,
+   "bytes": 89548
+  },
+  {
+   "name": "MG_7470",
+   "w": 1000,
+   "bytes": 134112
+  },
+  {
+   "name": "MG_7470",
+   "w": 1200,
+   "bytes": 185312
+  },
+  {
+   "name": "MG_7470",
+   "w": 1600,
+   "bytes": 300038
+  },
+  {
+   "name": "Deluxe_Twin_Beds_Rooms",
+   "w": 420,
+   "bytes": 14518
+  },
+  {
+   "name": "Deluxe_Twin_Beds_Rooms",
+   "w": 520,
+   "bytes": 20598
+  },
+  {
+   "name": "Deluxe_Twin_Beds_Rooms",
+   "w": 800,
+   "bytes": 40822
+  },
+  {
+   "name": "Deluxe_Twin_Beds_Rooms",
+   "w": 1000,
+   "bytes": 57890
+  },
+  {
+   "name": "Deluxe_Twin_Beds_Rooms",
+   "w": 1200,
+   "bytes": 75974
+  },
+  {
+   "name": "Deluxe_Twin_Beds_Rooms",
+   "w": 1600,
+   "bytes": 117862
+  },
+  {
+   "name": "Deluxe_King_Pool_View_Rooms",
+   "w": 420,
+   "bytes": 16372
+  },
+  {
+   "name": "Deluxe_King_Pool_View_Rooms",
+   "w": 520,
+   "bytes": 23448
+  },
+  {
+   "name": "Deluxe_King_Pool_View_Rooms",
+   "w": 800,
+   "bytes": 47140
+  },
+  {
+   "name": "Deluxe_King_Pool_View_Rooms",
+   "w": 1000,
+   "bytes": 68720
+  },
+  {
+   "name": "Deluxe_King_Pool_View_Rooms",
+   "w": 1200,
+   "bytes": 90750
+  },
+  {
+   "name": "Deluxe_King_Pool_View_Rooms",
+   "w": 1600,
+   "bytes": 144658
+  },
+  {
+   "name": "Premium_Pool_view_room",
+   "w": 420,
+   "bytes": 13652
+  },
+  {
+   "name": "Premium_Pool_view_room",
+   "w": 520,
+   "bytes": 19208
+  },
+  {
+   "name": "Premium_Pool_view_room",
+   "w": 800,
+   "bytes": 38326
+  },
+  {
+   "name": "Premium_Pool_view_room",
+   "w": 1000,
+   "bytes": 55172
+  },
+  {
+   "name": "Premium_Pool_view_room",
+   "w": 1200,
+   "bytes": 73978
+  },
+  {
+   "name": "Premium_Pool_view_room",
+   "w": 1600,
+   "bytes": 117320
+  },
+  {
+   "name": "Executive_Palace_Suite",
+   "w": 420,
+   "bytes": 17874
+  },
+  {
+   "name": "Executive_Palace_Suite",
+   "w": 520,
+   "bytes": 26088
+  },
+  {
+   "name": "Executive_Palace_Suite",
+   "w": 800,
+   "bytes": 53598
+  },
+  {
+   "name": "Executive_Palace_Suite",
+   "w": 1000,
+   "bytes": 79324
+  },
+  {
+   "name": "Executive_Palace_Suite",
+   "w": 1200,
+   "bytes": 105472
+  },
+  {
+   "name": "Executive_Palace_Suite",
+   "w": 1600,
+   "bytes": 166578
+  },
+  {
+   "name": "Premium_Palace_Suite",
+   "w": 420,
+   "bytes": 16138
+  },
+  {
+   "name": "Premium_Palace_Suite",
+   "w": 520,
+   "bytes": 23104
+  },
+  {
+   "name": "Premium_Palace_Suite",
+   "w": 800,
+   "bytes": 46426
+  },
+  {
+   "name": "Premium_Palace_Suite",
+   "w": 1000,
+   "bytes": 67920
+  },
+  {
+   "name": "Premium_Palace_Suite",
+   "w": 1200,
+   "bytes": 88870
+  },
+  {
+   "name": "Premium_Palace_Suite",
+   "w": 1600,
+   "bytes": 139854
+  },
+  {
+   "name": "Executive_Studio_Villa2_rkjitb",
+   "w": 420,
+   "bytes": 15666
+  },
+  {
+   "name": "Executive_Studio_Villa2_rkjitb",
+   "w": 520,
+   "bytes": 21716
+  },
+  {
+   "name": "Executive_Studio_Villa2_rkjitb",
+   "w": 800,
+   "bytes": 43386
+  },
+  {
+   "name": "Executive_Studio_Villa2_rkjitb",
+   "w": 1000,
+   "bytes": 63254
+  },
+  {
+   "name": "Executive_Studio_Villa2_rkjitb",
+   "w": 1200,
+   "bytes": 85844
+  },
+  {
+   "name": "Executive_Studio_Villa2_rkjitb",
+   "w": 1600,
+   "bytes": 131252
+  },
+  {
+   "name": "Premium_Luxury_Villa05_qu2htb",
+   "w": 420,
+   "bytes": 19318
+  },
+  {
+   "name": "Premium_Luxury_Villa05_qu2htb",
+   "w": 520,
+   "bytes": 26764
+  },
+  {
+   "name": "Premium_Luxury_Villa05_qu2htb",
+   "w": 640,
+   "bytes": 39336
+  },
+  {
+   "name": "Premium_Luxury_Villa05_qu2htb",
+   "w": 800,
+   "bytes": 55968
+  },
+  {
+   "name": "Premium_Luxury_Villa05_qu2htb",
+   "w": 1000,
+   "bytes": 80118
+  },
+  {
+   "name": "Premium_Luxury_Villa05_qu2htb",
+   "w": 1200,
+   "bytes": 111332
+  },
+  {
+   "name": "Premium_Luxury_Villa05_qu2htb",
+   "w": 1600,
+   "bytes": 177396
+  },
+  {
+   "name": "Premium_Luxury_Villa01_os8chw",
+   "w": 420,
+   "bytes": 13110
+  },
+  {
+   "name": "Premium_Luxury_Villa01_os8chw",
+   "w": 520,
+   "bytes": 18596
+  },
+  {
+   "name": "Premium_Luxury_Villa01_os8chw",
+   "w": 800,
+   "bytes": 39746
+  },
+  {
+   "name": "Premium_Luxury_Villa01_os8chw",
+   "w": 1000,
+   "bytes": 57692
+  },
+  {
+   "name": "Premium_Luxury_Villa01_os8chw",
+   "w": 1200,
+   "bytes": 81682
+  },
+  {
+   "name": "Premium_Luxury_Villa01_os8chw",
+   "w": 1600,
+   "bytes": 131728
+  },
+  {
+   "name": "Suite_Bathroom",
+   "w": 420,
+   "bytes": 11838
+  },
+  {
+   "name": "Suite_Bathroom",
+   "w": 520,
+   "bytes": 17682
+  },
+  {
+   "name": "Suite_Bathroom",
+   "w": 640,
+   "bytes": 25474
+  },
+  {
+   "name": "Suite_Bathroom",
+   "w": 800,
+   "bytes": 40330
+  },
+  {
+   "name": "Suite_Bathroom",
+   "w": 1000,
+   "bytes": 62380
+  },
+  {
+   "name": "Suite_Bathroom",
+   "w": 1200,
+   "bytes": 85990
+  },
+  {
+   "name": "Suite_Bathroom",
+   "w": 1600,
+   "bytes": 140486
+  },
+  {
+   "name": "enhanced_16_9",
+   "w": 420,
+   "bytes": 25148
+  },
+  {
+   "name": "enhanced_16_9",
+   "w": 520,
+   "bytes": 38616
+  },
+  {
+   "name": "enhanced_16_9",
+   "w": 800,
+   "bytes": 89140
+  },
+  {
+   "name": "enhanced_16_9",
+   "w": 1000,
+   "bytes": 123566
+  },
+  {
+   "name": "enhanced_16_9",
+   "w": 1200,
+   "bytes": 123566
+  },
+  {
+   "name": "enhanced_16_9",
+   "w": 1600,
+   "bytes": 123566
+  },
+  {
+   "name": "micah-mckerlich-WNMfEYSlyUY-unsplash_h6fwkw",
+   "w": 420,
+   "bytes": 14170
+  },
+  {
+   "name": "micah-mckerlich-WNMfEYSlyUY-unsplash_h6fwkw",
+   "w": 520,
+   "bytes": 19148
+  },
+  {
+   "name": "micah-mckerlich-WNMfEYSlyUY-unsplash_h6fwkw",
+   "w": 640,
+   "bytes": 25698
+  },
+  {
+   "name": "micah-mckerlich-WNMfEYSlyUY-unsplash_h6fwkw",
+   "w": 800,
+   "bytes": 35538
+  },
+  {
+   "name": "micah-mckerlich-WNMfEYSlyUY-unsplash_h6fwkw",
+   "w": 1000,
+   "bytes": 47818
+  },
+  {
+   "name": "micah-mckerlich-WNMfEYSlyUY-unsplash_h6fwkw",
+   "w": 1200,
+   "bytes": 60004
+  },
+  {
+   "name": "micah-mckerlich-WNMfEYSlyUY-unsplash_h6fwkw",
+   "w": 1600,
+   "bytes": 86952
+  },
+  {
+   "name": "pexels-rishabh-lakra-738802-1583350_pysktm",
+   "w": 420,
+   "bytes": 29886
+  },
+  {
+   "name": "pexels-rishabh-lakra-738802-1583350_pysktm",
+   "w": 520,
+   "bytes": 43420
+  },
+  {
+   "name": "pexels-rishabh-lakra-738802-1583350_pysktm",
+   "w": 800,
+   "bytes": 78996
+  },
+  {
+   "name": "pexels-rishabh-lakra-738802-1583350_pysktm",
+   "w": 1000,
+   "bytes": 108846
+  },
+  {
+   "name": "pexels-rishabh-lakra-738802-1583350_pysktm",
+   "w": 1200,
+   "bytes": 139074
+  },
+  {
+   "name": "pexels-rishabh-lakra-738802-1583350_pysktm",
+   "w": 1600,
+   "bytes": 203624
+  },
+  {
+   "name": "phil-hearing-9xcQ-KpxV8E-unsplash_638dd167",
+   "w": 420,
+   "bytes": 8672
+  },
+  {
+   "name": "phil-hearing-9xcQ-KpxV8E-unsplash_638dd167",
+   "w": 520,
+   "bytes": 10990
+  },
+  {
+   "name": "phil-hearing-9xcQ-KpxV8E-unsplash_638dd167",
+   "w": 640,
+   "bytes": 13878
+  },
+  {
+   "name": "phil-hearing-9xcQ-KpxV8E-unsplash_638dd167",
+   "w": 800,
+   "bytes": 18132
+  },
+  {
+   "name": "phil-hearing-9xcQ-KpxV8E-unsplash_638dd167",
+   "w": 1000,
+   "bytes": 24044
+  },
+  {
+   "name": "phil-hearing-9xcQ-KpxV8E-unsplash_638dd167",
+   "w": 1200,
+   "bytes": 29978
+  },
+  {
+   "name": "phil-hearing-9xcQ-KpxV8E-unsplash_638dd167",
+   "w": 1600,
+   "bytes": 45212
+  },
+  {
+   "name": "pexels-tomaz-barcellos-999425-2017868_lqixsw",
+   "w": 420,
+   "bytes": 4810
+  },
+  {
+   "name": "pexels-tomaz-barcellos-999425-2017868_lqixsw",
+   "w": 520,
+   "bytes": 6254
+  },
+  {
+   "name": "pexels-tomaz-barcellos-999425-2017868_lqixsw",
+   "w": 640,
+   "bytes": 8012
+  },
+  {
+   "name": "pexels-tomaz-barcellos-999425-2017868_lqixsw",
+   "w": 800,
+   "bytes": 10712
+  },
+  {
+   "name": "pexels-tomaz-barcellos-999425-2017868_lqixsw",
+   "w": 1000,
+   "bytes": 14398
+  },
+  {
+   "name": "pexels-tomaz-barcellos-999425-2017868_lqixsw",
+   "w": 1200,
+   "bytes": 18228
+  },
+  {
+   "name": "pexels-tomaz-barcellos-999425-2017868_lqixsw",
+   "w": 1600,
+   "bytes": 27670
+  },
+  {
+   "name": "pexels-karolina-grabowska-7269689_d0monz",
+   "w": 420,
+   "bytes": 13818
+  },
+  {
+   "name": "pexels-karolina-grabowska-7269689_d0monz",
+   "w": 520,
+   "bytes": 17936
+  },
+  {
+   "name": "pexels-karolina-grabowska-7269689_d0monz",
+   "w": 640,
+   "bytes": 23634
+  },
+  {
+   "name": "pexels-karolina-grabowska-7269689_d0monz",
+   "w": 800,
+   "bytes": 32042
+  },
+  {
+   "name": "pexels-karolina-grabowska-7269689_d0monz",
+   "w": 1000,
+   "bytes": 44374
+  },
+  {
+   "name": "pexels-karolina-grabowska-7269689_d0monz",
+   "w": 1200,
+   "bytes": 58464
+  },
+  {
+   "name": "pexels-karolina-grabowska-7269689_d0monz",
+   "w": 1600,
+   "bytes": 93694
+  },
+  {
+   "name": "pexels-mikhail-nilov-9366581_23d720aa",
+   "w": 420,
+   "bytes": 15954
+  },
+  {
+   "name": "pexels-mikhail-nilov-9366581_23d720aa",
+   "w": 520,
+   "bytes": 20582
+  },
+  {
+   "name": "pexels-mikhail-nilov-9366581_23d720aa",
+   "w": 640,
+   "bytes": 27152
+  },
+  {
+   "name": "pexels-mikhail-nilov-9366581_23d720aa",
+   "w": 800,
+   "bytes": 35428
+  },
+  {
+   "name": "pexels-mikhail-nilov-9366581_23d720aa",
+   "w": 1000,
+   "bytes": 47056
+  },
+  {
+   "name": "pexels-mikhail-nilov-9366581_23d720aa",
+   "w": 1200,
+   "bytes": 59396
+  },
+  {
+   "name": "pexels-mikhail-nilov-9366581_23d720aa",
+   "w": 1600,
+   "bytes": 85966
+  },
+  {
+   "name": "_MG_7628",
+   "w": 420,
+   "bytes": 22814
+  },
+  {
+   "name": "_MG_7628",
+   "w": 520,
+   "bytes": 34634
+  },
+  {
+   "name": "_MG_7628",
+   "w": 640,
+   "bytes": 50016
+  },
+  {
+   "name": "_MG_7628",
+   "w": 800,
+   "bytes": 78386
+  },
+  {
+   "name": "_MG_7628",
+   "w": 1000,
+   "bytes": 118808
+  },
+  {
+   "name": "_MG_7628",
+   "w": 1200,
+   "bytes": 163238
+  },
+  {
+   "name": "_MG_7628",
+   "w": 1600,
+   "bytes": 264594
+  },
+  {
+   "name": "_MG_7740",
+   "w": 420,
+   "bytes": 21790
+  },
+  {
+   "name": "_MG_7740",
+   "w": 520,
+   "bytes": 32158
+  },
+  {
+   "name": "_MG_7740",
+   "w": 800,
+   "bytes": 67008
+  },
+  {
+   "name": "_MG_7740",
+   "w": 1000,
+   "bytes": 99460
+  },
+  {
+   "name": "_MG_7740",
+   "w": 1200,
+   "bytes": 131682
+  },
+  {
+   "name": "_MG_7740",
+   "w": 1600,
+   "bytes": 210230
+  },
+  {
+   "name": "Sagar_Bar_10_4546740e",
+   "w": 420,
+   "bytes": 39770
+  },
+  {
+   "name": "Sagar_Bar_10_4546740e",
+   "w": 520,
+   "bytes": 56566
+  },
+  {
+   "name": "Sagar_Bar_10_4546740e",
+   "w": 640,
+   "bytes": 77336
+  },
+  {
+   "name": "Sagar_Bar_10_4546740e",
+   "w": 800,
+   "bytes": 110944
+  },
+  {
+   "name": "Sagar_Bar_10_4546740e",
+   "w": 1000,
+   "bytes": 154944
+  },
+  {
+   "name": "Sagar_Bar_10_4546740e",
+   "w": 1200,
+   "bytes": 199402
+  },
+  {
+   "name": "Sagar_Bar_10_4546740e",
+   "w": 1600,
+   "bytes": 296024
+  },
+  {
+   "name": "Panch_Mahal_Images_4_54c2b075",
+   "w": 420,
+   "bytes": 9394
+  },
+  {
+   "name": "Panch_Mahal_Images_4_54c2b075",
+   "w": 520,
+   "bytes": 12906
+  },
+  {
+   "name": "Panch_Mahal_Images_4_54c2b075",
+   "w": 640,
+   "bytes": 18266
+  },
+  {
+   "name": "Panch_Mahal_Images_4_54c2b075",
+   "w": 800,
+   "bytes": 28958
+  },
+  {
+   "name": "Panch_Mahal_Images_4_54c2b075",
+   "w": 1000,
+   "bytes": 36448
+  },
+  {
+   "name": "Panch_Mahal_Images_4_54c2b075",
+   "w": 1200,
+   "bytes": 47090
+  },
+  {
+   "name": "Panch_Mahal_Images_4_54c2b075",
+   "w": 1600,
+   "bytes": 62038
+  },
+  {
+   "name": "_MG_7730",
+   "w": 420,
+   "bytes": 17088
+  },
+  {
+   "name": "_MG_7730",
+   "w": 520,
+   "bytes": 24172
+  },
+  {
+   "name": "_MG_7730",
+   "w": 800,
+   "bytes": 49370
+  },
+  {
+   "name": "_MG_7730",
+   "w": 1000,
+   "bytes": 70816
+  },
+  {
+   "name": "_MG_7730",
+   "w": 1200,
+   "bytes": 94174
+  },
+  {
+   "name": "_MG_7730",
+   "w": 1600,
+   "bytes": 143560
+  },
+  {
+   "name": "brass-kitchen",
+   "w": 420,
+   "bytes": 11326
+  },
+  {
+   "name": "brass-kitchen",
+   "w": 520,
+   "bytes": 15458
+  },
+  {
+   "name": "brass-kitchen",
+   "w": 800,
+   "bytes": 26504
+  },
+  {
+   "name": "brass-kitchen",
+   "w": 1000,
+   "bytes": 34148
+  },
+  {
+   "name": "brass-kitchen",
+   "w": 1200,
+   "bytes": 42020
+  },
+  {
+   "name": "brass-kitchen",
+   "w": 1600,
+   "bytes": 57170
+  },
+  {
+   "name": "welcome-ritual",
+   "w": 420,
+   "bytes": 6584
+  },
+  {
+   "name": "welcome-ritual",
+   "w": 520,
+   "bytes": 8620
+  },
+  {
+   "name": "welcome-ritual",
+   "w": 800,
+   "bytes": 14014
+  },
+  {
+   "name": "welcome-ritual",
+   "w": 1000,
+   "bytes": 18686
+  },
+  {
+   "name": "welcome-ritual",
+   "w": 1200,
+   "bytes": 22920
+  },
+  {
+   "name": "welcome-ritual",
+   "w": 1600,
+   "bytes": 31442
+  },
+  {
+   "name": "folk-steps",
+   "w": 420,
+   "bytes": 11430
+  },
+  {
+   "name": "folk-steps",
+   "w": 520,
+   "bytes": 15702
+  },
+  {
+   "name": "folk-steps",
+   "w": 640,
+   "bytes": 20874
+  },
+  {
+   "name": "folk-steps",
+   "w": 800,
+   "bytes": 28428
+  },
+  {
+   "name": "folk-steps",
+   "w": 1000,
+   "bytes": 37088
+  },
+  {
+   "name": "folk-steps",
+   "w": 1200,
+   "bytes": 45396
+  },
+  {
+   "name": "folk-steps",
+   "w": 1600,
+   "bytes": 63624
+  },
+  {
+   "name": "hotel-award-11",
+   "w": 420,
+   "bytes": 10644
+  },
+  {
+   "name": "hotel-award-11",
+   "w": 520,
+   "bytes": 16502
+  },
+  {
+   "name": "hotel-award-11",
+   "w": 640,
+   "bytes": 25406
+  },
+  {
+   "name": "hotel-award-11",
+   "w": 800,
+   "bytes": 39506
+  },
+  {
+   "name": "hotel-award-11",
+   "w": 1000,
+   "bytes": 56770
+  },
+  {
+   "name": "hotel-award-11",
+   "w": 1200,
+   "bytes": 76028
+  },
+  {
+   "name": "hotel-award-11",
+   "w": 1600,
+   "bytes": 72260
+  },
+  {
+   "name": "hotel-award-2",
+   "w": 420,
+   "bytes": 18660
+  },
+  {
+   "name": "hotel-award-2",
+   "w": 520,
+   "bytes": 24898
+  },
+  {
+   "name": "hotel-award-2",
+   "w": 640,
+   "bytes": 33168
+  },
+  {
+   "name": "hotel-award-2",
+   "w": 800,
+   "bytes": 44436
+  },
+  {
+   "name": "hotel-award-2",
+   "w": 1000,
+   "bytes": 59184
+  },
+  {
+   "name": "hotel-award-2",
+   "w": 1200,
+   "bytes": 53664
+  },
+  {
+   "name": "hotel-award-2",
+   "w": 1600,
+   "bytes": 53664
+  },
+  {
+   "name": "hotel-award-5",
+   "w": 420,
+   "bytes": 8444
+  },
+  {
+   "name": "hotel-award-5",
+   "w": 520,
+   "bytes": 10952
+  },
+  {
+   "name": "hotel-award-5",
+   "w": 640,
+   "bytes": 13934
+  },
+  {
+   "name": "hotel-award-5",
+   "w": 800,
+   "bytes": 17958
+  },
+  {
+   "name": "hotel-award-5",
+   "w": 1000,
+   "bytes": 23844
+  },
+  {
+   "name": "hotel-award-5",
+   "w": 1200,
+   "bytes": 29852
+  },
+  {
+   "name": "hotel-award-5",
+   "w": 1600,
+   "bytes": 29346
+  },
+  {
+   "name": "hotel-award-8",
+   "w": 420,
+   "bytes": 20856
+  },
+  {
+   "name": "hotel-award-8",
+   "w": 520,
+   "bytes": 28586
+  },
+  {
+   "name": "hotel-award-8",
+   "w": 640,
+   "bytes": 39482
+  },
+  {
+   "name": "hotel-award-8",
+   "w": 800,
+   "bytes": 54698
+  },
+  {
+   "name": "hotel-award-8",
+   "w": 1000,
+   "bytes": 73668
+  },
+  {
+   "name": "hotel-award-8",
+   "w": 1200,
+   "bytes": 65902
+  },
+  {
+   "name": "hotel-award-8",
+   "w": 1600,
+   "bytes": 65902
+  },
+  {
+   "name": "hotel-award-7",
+   "w": 420,
+   "bytes": 16054
+  },
+  {
+   "name": "hotel-award-7",
+   "w": 520,
+   "bytes": 21432
+  },
+  {
+   "name": "hotel-award-7",
+   "w": 640,
+   "bytes": 28032
+  },
+  {
+   "name": "hotel-award-7",
+   "w": 800,
+   "bytes": 37270
+  },
+  {
+   "name": "hotel-award-7",
+   "w": 1000,
+   "bytes": 37166
+  },
+  {
+   "name": "hotel-award-7",
+   "w": 1200,
+   "bytes": 37166
+  },
+  {
+   "name": "hotel-award-7",
+   "w": 1600,
+   "bytes": 37166
+  },
+  {
+   "name": "hotel-award-3",
+   "w": 420,
+   "bytes": 14148
+  },
+  {
+   "name": "hotel-award-3",
+   "w": 520,
+   "bytes": 20426
+  },
+  {
+   "name": "hotel-award-3",
+   "w": 640,
+   "bytes": 27416
+  },
+  {
+   "name": "hotel-award-3",
+   "w": 800,
+   "bytes": 38826
+  },
+  {
+   "name": "hotel-award-3",
+   "w": 1000,
+   "bytes": 43062
+  },
+  {
+   "name": "hotel-award-3",
+   "w": 1200,
+   "bytes": 43062
+  },
+  {
+   "name": "hotel-award-3",
+   "w": 1600,
+   "bytes": 43062
+  }
+ ],
+ "totalImageBytes": 15770944
+}

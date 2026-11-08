@@ -1,0 +1,344 @@
+{
+  "generatedAt": "2026-11-07T18:05:53.194Z",
+  "assets": [
+    {
+      "file": "media/hero-aerial.webp",
+      "source": "images/facade-entrance/an-aerial-shot-of-the-beautifully-lit-in-mahabalipuram-surrounded-by-l.webp",
+      "category": "facade-entrance",
+      "width": 2400,
+      "height": 1599,
+      "bytes": 934562,
+      "alt": "An aerial shot of the beautifully lit  in Mahabalipuram surrounded by lush greenery on all sides"
+    },
+    {
+      "file": "media/estate-wide.webp",
+      "source": "images/facade-entrance/a-stunning-wide-angle-view-of-our-palace-with-a-grand-central-pool-fra.webp",
+      "category": "facade-entrance",
+      "width": 2240,
+      "height": 1493,
+      "bytes": 1005222,
+      "alt": "A stunning wide-angle view of our palace, with a grand central pool framed by exquisite buildings of Rajasthani architecture on both sides"
+    },
+    {
+      "file": "media/estate-pool-night.webp",
+      "source": "images/facade-entrance/a-view-featuring-a-pool-lit-in-blue-colour-with-buildings-of-rajasthan.webp",
+      "category": "facade-entrance",
+      "width": 2240,
+      "height": 1493,
+      "bytes": 784702,
+      "alt": "A view featuring a pool lit in blue colour with buildings of rajasthani architecture on either sides"
+    },
+    {
+      "file": "media/estate-pool-day.webp",
+      "source": "images/facade-entrance/an-image-of-our-palace-pool-with-sun-loungers-and-palm-trees-on-the-de.webp",
+      "category": "facade-entrance",
+      "width": 2240,
+      "height": 1493,
+      "bytes": 908386,
+      "alt": "An image of our palace pool with sun loungers and palm trees on the deck"
+    },
+    {
+      "file": "media/invite-dusk.webp",
+      "source": "images/facade-entrance/outdoor-evening-event-setup-with-string-lights-and-a-sunset-backdrop-k.webp",
+      "category": "facade-entrance",
+      "width": 2400,
+      "height": 1600,
+      "bytes": 452310,
+      "alt": "Outdoor evening event setup with string lights and a sunset backdrop - Kaldan Samudra Palace"
+    },
+    {
+      "file": "media/story-reception.webp",
+      "source": "images/facade-entrance/a-reception-area-with-a-reception-desk-receptionists-and-a-giant-chand.webp",
+      "category": "facade-entrance",
+      "width": 2160,
+      "height": 1440,
+      "bytes": 815954,
+      "alt": "A reception area with a reception desk, receptionists and a giant chandelier"
+    },
+    {
+      "file": "media/story-hightea.webp",
+      "source": "images/facade-entrance/open-air-high-tea-area-with-majestic-architecture-under-a-serene-sky.webp",
+      "category": "facade-entrance",
+      "width": 2240,
+      "height": 1493,
+      "bytes": 307820,
+      "alt": "Open-air high tea area with majestic architecture under a serene sky"
+    },
+    {
+      "file": "media/story-pavilion.webp",
+      "source": "images/facade-entrance/arched-pavilion-with-ornate-ceilings-and-golden-lighting-on-our-front-.webp",
+      "category": "facade-entrance",
+      "width": 2160,
+      "height": 1440,
+      "bytes": 454234,
+      "alt": "Arched pavilion with ornate ceilings and golden lighting on our front porch"
+    },
+    {
+      "file": "media/stay-bedroom-1.webp",
+      "source": "images/accommodations/a-luxurious-bedroom-in-mahabalipuram-with-a-chandelier-beige-tones-and.webp",
+      "category": "accommodations",
+      "width": 2400,
+      "height": 1794,
+      "bytes": 505604,
+      "alt": "A luxurious bedroom in Mahabalipuram with a chandelier, beige tones, and a plush brown bedspread – Kaldan Samudra, one of the finest 5 Star Hotels in ECR"
+    },
+    {
+      "file": "media/stay-bedroom-2.webp",
+      "source": "images/accommodations/bedroom-with-a-regal-gold-accented-ceiling-and-a-comfy-double-bed-with.webp",
+      "category": "accommodations",
+      "width": 2400,
+      "height": 1868,
+      "bytes": 489002,
+      "alt": "Bedroom with a regal gold-accented ceiling and a comfy double bed with red cushions"
+    },
+    {
+      "file": "media/stay-bath.webp",
+      "source": "images/accommodations/a-luxurious-bathroom-with-a-petal-decorated-bathtub-and-large-glass-sh.webp",
+      "category": "accommodations",
+      "width": 2400,
+      "height": 2081,
+      "bytes": 320738,
+      "alt": "A luxurious bathroom with a petal-decorated bathtub and large glass shower enclosure"
+    },
+    {
+      "file": "media/stay-seating.webp",
+      "source": "images/accommodations/a-seating-area-with-an-ornate-chandelier-vintage-furniture-and-polishe.webp",
+      "category": "accommodations",
+      "width": 2400,
+      "height": 1602,
+      "bytes": 431426,
+      "alt": "A seating area with an ornate chandelier, vintage furniture, and polished wooden flooring"
+    },
+    {
+      "file": "media/stay-stair.webp",
+      "source": "images/accommodations/an-elegant-staircase-and-hallway-with-contemporary-paintings-and-sleek.webp",
+      "category": "accommodations",
+      "width": 2400,
+      "height": 3600,
+      "bytes": 600176,
+      "alt": "An elegant staircase and hallway with contemporary paintings and sleek white marble flooring"
+    },
+    {
+      "file": "media/stay-villa-balcony.webp",
+      "source": "images/accommodations/a-balcony-in-the-premium-luxury-villa-featuring-a-pool-with-rose-petal.webp",
+      "category": "accommodations",
+      "width": 2400,
+      "height": 1600,
+      "bytes": 568990,
+      "alt": "A balcony in the Premium Luxury Villa featuring a pool with rose petals, lounge chairs, and panoramic views of the hotel"
+    },
+    {
+      "file": "media/stay-balcony.webp",
+      "source": "images/accommodations/a-balcony-with-classic-furniture-and-serene-views-of-the-landscape-sur.webp",
+      "category": "accommodations",
+      "width": 2400,
+      "height": 1602,
+      "bytes": 571384,
+      "alt": "A balcony with classic furniture and serene views of the landscape surrounding our palace"
+    },
+    {
+      "file": "media/exp-dance.webp",
+      "source": "images/experiences/two-women-performing-the-traditional-rajasthani-dance-with-musician-pl.webp",
+      "category": "experiences",
+      "width": 1821,
+      "height": 1213,
+      "bytes": 506804,
+      "alt": "Two women performing the traditional rajasthani dance with musician playing instruments behind them"
+    },
+    {
+      "file": "media/exp-yoga.webp",
+      "source": "images/experiences/a-yoga-session-on-the-shores-of-the-bay-of-bengal-with-a-sky-coated-in.webp",
+      "category": "experiences",
+      "width": 1821,
+      "height": 1213,
+      "bytes": 502824,
+      "alt": "A yoga session on the shores of the bay of Bengal with a sky coated in orange from the rising sun"
+    },
+    {
+      "file": "media/exp-puppet.webp",
+      "source": "images/experiences/an-image-of-a-puppet-show-with-vibrant-rajasthani-dolls.webp",
+      "category": "experiences",
+      "width": 2400,
+      "height": 1451,
+      "bytes": 504370,
+      "alt": "An image of a puppet show with vibrant rajasthani dolls"
+    },
+    {
+      "file": "media/exp-hightea.webp",
+      "source": "images/facade-entrance/the-high-tea-place-at-our-resort-in-mahabalipuram-offering-cosy-orange.webp",
+      "category": "facade-entrance",
+      "width": 2400,
+      "height": 1600,
+      "bytes": 693938,
+      "alt": "The high tea place at our resort in Mahabalipuram offering cosy orange chairs, a snack counter, and views of the Bay of Bengal – Kaldan Samudra Palace, a stunning luxury resort in ECR"
+    },
+    {
+      "file": "media/exp-volleyball.webp",
+      "source": "images/experiences/an-image-of-group-of-friends-enjoying-volleyball-by-the-beach-during-a.webp",
+      "category": "experiences",
+      "width": 2400,
+      "height": 1590,
+      "bytes": 271100,
+      "alt": "An image of group of friends enjoying volleyball by the beach during a sunset"
+    },
+    {
+      "file": "media/dine-table.webp",
+      "source": "images/dining/a-sophisticated-dinner-setup-with-white-flowers-candles-and-fine-dinin.webp",
+      "category": "dining",
+      "width": 2400,
+      "height": 3593,
+      "bytes": 246606,
+      "alt": "A sophisticated dinner setup with white flowers, candles, and fine-dining essentials"
+    },
+    {
+      "file": "media/dine-romantic.webp",
+      "source": "images/dining/a-romantic-dining-table-with-elegant-decor-and-ambient-lighting.webp",
+      "category": "dining",
+      "width": 2400,
+      "height": 3593,
+      "bytes": 223492,
+      "alt": "A romantic dining table with elegant decor and ambient lighting"
+    },
+    {
+      "file": "media/dine-cocktails.webp",
+      "source": "images/dining/a-dreamy-outdoor-dining-experience-with-cocktails-and-a-palace-view-ka.webp",
+      "category": "dining",
+      "width": 2400,
+      "height": 1800,
+      "bytes": 340640,
+      "alt": "A dreamy outdoor dining experience with cocktails and a palace view - Kaldan Samudra Palace"
+    },
+    {
+      "file": "media/dine-poolside.webp",
+      "source": "images/dining/a-luxurious-poolside-setup-with-colourful-cocktails-and-fresh-fruits-k.webp",
+      "category": "dining",
+      "width": 2400,
+      "height": 3200,
+      "bytes": 840112,
+      "alt": "A luxurious poolside setup with colourful cocktails and fresh fruits - Kaldan Samudra Palace"
+    },
+    {
+      "file": "media/dine-hall.webp",
+      "source": "images/dining/a-spacious-dining-hall-featuring-modern-decor-and-warm-lighting.webp",
+      "category": "dining",
+      "width": 2119,
+      "height": 1412,
+      "bytes": 775652,
+      "alt": "A spacious dining hall featuring modern decor and warm lighting"
+    },
+    {
+      "file": "media/panch-gazebo.webp",
+      "source": "images/panch-mahal/a-grand-illuminated-gazebo-prepared-for-an-intimate-dinner.webp",
+      "category": "panch-mahal",
+      "width": 2400,
+      "height": 3593,
+      "bytes": 586188,
+      "alt": "A grand illuminated gazebo prepared for an intimate dinner"
+    },
+    {
+      "file": "media/panch-wide.webp",
+      "source": "images/panch-mahal/a-serene-outdoor-dining-experience-with-multiple-gazebos-in-a-lush-gre.webp",
+      "category": "panch-mahal",
+      "width": 2400,
+      "height": 1603,
+      "bytes": 387386,
+      "alt": "A serene outdoor dining experience with multiple gazebos in a lush green setting"
+    },
+    {
+      "file": "media/panch-detail.webp",
+      "source": "images/panch-mahal/a-close-up-shot-of-the-gazebo-at-panch-mahal-featuring-ornamental-latt.webp",
+      "category": "panch-mahal",
+      "width": 2400,
+      "height": 1350,
+      "bytes": 301094,
+      "alt": "a close up shot of the gazebo at Panch Mahal, featuring ornamental lattice screens (jallis), a centre table with chairs and oil-lit chandeliers"
+    },
+    {
+      "file": "media/panch-ledge.webp",
+      "source": "images/panch-mahal/a-ledge-with-intricate-flower-patters-at-panch-mahal-featuring-three-j.webp",
+      "category": "panch-mahal",
+      "width": 2400,
+      "height": 1350,
+      "bytes": 120850,
+      "alt": "a ledge with intricate flower patters at Panch Mahal featuring three jharokas for placing candles"
+    },
+    {
+      "file": "media/celeb-ballroom.webp",
+      "source": "images/event-spaces/grand-ballroom-with-opulent-lighting-and-luxurious-carpeting-kaldan-sa.webp",
+      "category": "event-spaces",
+      "width": 2400,
+      "height": 1600,
+      "bytes": 668354,
+      "alt": "Grand ballroom with opulent lighting and luxurious carpeting - Kaldan Samudra Palace"
+    },
+    {
+      "file": "media/celeb-mandap.webp",
+      "source": "images/event-spaces/a-mandap-in-the-lawn-of-featuring-a-table-with-a-bouquet-of-roses.webp",
+      "category": "event-spaces",
+      "width": 2400,
+      "height": 1600,
+      "bytes": 577178,
+      "alt": "a mandap in the lawn of  featuring a table with a bouquet of roses"
+    },
+    {
+      "file": "media/celeb-pathway.webp",
+      "source": "images/event-spaces/an-pathway-in-the-lawn-with-a-lamp-post-and-towering-arches.webp",
+      "category": "event-spaces",
+      "width": 2400,
+      "height": 1601,
+      "bytes": 560682,
+      "alt": "An pathway in the lawn with a lamp post and towering arches"
+    },
+    {
+      "file": "media/celeb-stair.webp",
+      "source": "images/event-spaces/the-low-angle-image-of-the-staircase-in-front-of-the-lawn-with-the-tow.webp",
+      "category": "event-spaces",
+      "width": 2400,
+      "height": 1601,
+      "bytes": 455256,
+      "alt": "The low angle image of the staircase in front of the lawn with the towering  in the background"
+    },
+    {
+      "file": "media/celeb-stage.webp",
+      "source": "images/event-spaces/a-stage-with-couch-an-arch-with-ornamental-flowers-pants-and-chandelie.webp",
+      "category": "event-spaces",
+      "width": 2400,
+      "height": 1601,
+      "bytes": 723546,
+      "alt": "A stage with couch, an arch with ornamental flowers & pants and chandeliers hanging from the ceiling"
+    },
+    {
+      "file": "media/celeb-banquet.webp",
+      "source": "images/event-spaces/spacious-banquet-hall-with-warm-golden-lighting-and-arched-designs-kal.webp",
+      "category": "event-spaces",
+      "width": 2400,
+      "height": 1600,
+      "bytes": 695356,
+      "alt": "Spacious banquet hall with warm golden lighting and arched designs - Kaldan Samudra Palace"
+    },
+    {
+      "file": "media/hero-desktop.mp4",
+      "source": "videos/kaldan_palace_overview_compressed_1a13rr.mp4",
+      "bytes": 19615103,
+      "kind": "video"
+    },
+    {
+      "file": "media/hero-mobile.mp4",
+      "source": "videos/kaldan_home_page_video_1087_x_590_2.mp4",
+      "bytes": 3725670,
+      "kind": "video"
+    },
+    {
+      "file": "media/dine-sagar.mp4",
+      "source": "videos/sagar_bar_13.mp4",
+      "bytes": 2035602,
+      "kind": "video"
+    },
+    {
+      "file": "media/panch.mp4",
+      "source": "videos/panch_mahal_images_21.mp4",
+      "bytes": 3282809,
+      "kind": "video"
+    }
+  ]
+}

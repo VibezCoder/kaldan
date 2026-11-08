@@ -1,0 +1,80 @@
+/* ─────────────────────────────────────────────────────────────
+   Design tokens — Kaldan Samudhra
+   Five colours, one type scale, one motion vocabulary.
+   ───────────────────────────────────────────────────────────── */
+
+:root {
+  /* colour ---------------------------------------------------- */
+  --ink: #101917;
+  --palace: #1e3b3d;
+  --palace-deep: #16292b;
+  --palace-soft: #2c4f50;
+  --gold: #c1a477;
+  --gold-bright: #d9bd90;
+  /* Accessible bronze for gold-family text on light grounds (5.1:1 on ivory). */
+  --gold-deep: #7f6035;
+  --ivory: #f4efe6;
+  --ivory-2: #ebe4d6;
+  --ivory-3: #ded4c1;
+  --clay: #a56c51;
+
+  --fg: #1a2422;
+  --fg-muted: #55605c;
+  --fg-light: #f4efe6;
+  --fg-light-muted: rgba(244, 239, 230, 0.72);
+
+  --line: rgba(26, 36, 34, 0.14);
+  --line-light: rgba(244, 239, 230, 0.2);
+
+  /* type ------------------------------------------------------ */
+  --font-display: "Montel", "Cormorant Garamond", Georgia, serif;
+  --font-ui: "Manrope", system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  --fs-display: clamp(2.9rem, 7.2vw, 5.75rem);
+  --fs-h1: clamp(2.5rem, 6vw, 4.75rem);
+  --fs-h2: clamp(1.95rem, 3.7vw, 3.25rem);
+  --fs-h3: clamp(1.3rem, 2vw, 1.75rem);
+  --fs-lede: clamp(1.125rem, 1.45vw, 1.375rem);
+  --fs-body: 1.0625rem;
+  --fs-small: 0.8125rem;
+  --fs-label: 0.6875rem;
+
+  --lh-tight: 0.98;
+  --lh-snug: 1.14;
+  --lh-body: 1.68;
+
+  --tracking-label: 0.16em;
+  --tracking-tight: -0.015em;
+
+  /* space ----------------------------------------------------- */
+  --s1: 0.5rem;
+  --s2: 0.75rem;
+  --s3: 1rem;
+  --s4: 1.5rem;
+  --s5: 2rem;
+  --s6: 3rem;
+  --s7: 4rem;
+  --s8: 6rem;
+  --s9: 8rem;
+  --s10: 12rem;
+
+  --gutter: clamp(1.25rem, 4vw, 4rem);
+  --maxw: 1440px;
+  --measure: 58ch;
+
+  /* motion ---------------------------------------------------- */
+  --dur-micro: 220ms;
+  --dur-ui: 420ms;
+  --dur-reveal: 900ms;
+  --dur-cinema: 1400ms;
+
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-inout: cubic-bezier(0.65, 0, 0.35, 1);
+
+  /* layers ---------------------------------------------------- */
+  --z-media: 0;
+  --z-content: 2;
+  --z-nav: 80;
+  --z-menu: 90;
+  --z-skip: 200;
+}

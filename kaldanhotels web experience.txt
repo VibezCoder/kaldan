@@ -1,0 +1,750 @@
+I'm trying to improve this website. https://www.kaldanhotels.com/
+I am a marketing intern at kaldan samudhra but I studied a little bit of ui-ux and frontend engineering and minor in data analytics. I saw my company's website and felt that the premium feel that I experienced when visiting the hotel in mahabalipuram was missing. I couldnt feel the "larger than life" accomodation and grandiose feel with a touch of simplicity and sharp look that the people working there gave.
+
+I felt that that was missing when visiting through this website,itmight be becuase the intro to the website is a video that felt like high SD - low HD, and then it straight away led to booking right in front, but doesnt speak about the experience visually. From the text to the logo to the layout and design everything felt subpar compared to the actual hotel.
+
+So I'd thought i'd impress my senior and get a bump in my paycheck by suggesting improviement to the website and also provide a draft/prototype of how the frontend could look without asking any prior information from them. So I need to gather as much code from the website and then try to edit its contents and hopefully provide a better experience than its current one. While also using my knowledge of data analytics to suggest improvements to the website and also encouraging filling a form or something from the web visitors.
+I'm not sure if a skills.md file or some other mcp or plug-in could help my AI agent make this website better,but before all that I would like to first assess the structure of the wesbite and suggest some imporvements to the layout, transition, touch, visuals / animations, fonts, colour scheme, etc.
+
+I really like the approach mentioned in a youtube video,I cant fint it but the gist of it was to first analyse the problems, what it lacks, find a colour palette and onlya handful of good transitional elements that can be repeated in the website and also tune the website according to its purpose and category,never to be generic.
+
+So now can u analyze and tell me what to do or should I myself gofurther into this website to get its code and understand its elements?
+
+Also think from my analysis of the website it lacks a ton of smoothness when moving through the website and I think the best inspiration for upgrade to my company's website would be:
+
+https://www.hoteldutassosorrento.com/
+specifically
+1. `https://www.awwwards.com/inspiration/hotel-heritage-hotel-du-tasso` element due to its simple and storytelling introduction which is a video on the bottom right half where a calm breeze is felt through the window and view of waves outside, 
+2. `https://www.awwwards.com/inspiration/content-design-hotel-du-tasso` perfect use of text with images, expressing a premium and minimallook.
+3. `https://www.awwwards.com/inspiration/desktop-hotel-du-tasso` a beautiful final touch
+
+and another website
+
+https://www.casamomo.at/
+specifically
+1. `https://www.awwwards.com/inspiration/hero-animation-casa-momo` the amazing video shot
+2. `https://www.awwwards.com/inspiration/headline-scroll-animation-casa-momo` the expansion of images when ur scrolling to them and its opacity slowing becoming less and less, while u scroll futher down from the image it goes it again reverts to its rounded border and skrinks back while the image its slowing increasing in opacity.
+3. `https://www.awwwards.com/inspiration/desktop-casa-momo` the simple yet styling nav bar on the top right directly above the image displaying beautiful colour palette.
+
+---
+
+
+I think you have identified an interesting opportunity here, because what you're describing is not simply a website redesign. It's a brand experience redesign.
+
+You're noticing a disconnect between two experiences:
+
+- The physical experience: You visit Kaldan Samudhra, experience its architecture, hospitality, grand scale, atmosphere and attention to detail.
+- The digital experience: You visit its website, but the website doesn't necessarily communicate that same feeling before someone books.
+
+That's an important distinction. A luxury hotel's website shouldn't just tell you that the property is luxurious. It should make you feel that luxury before you've even considered making a reservation.
+
+And your references make sense. You're gravitating towards a particular design philosophy:
+
+- Cinematic imagery rather than conventional hotel photography.
+- Minimalist typography with confident, oversized headlines.
+- Intentional whitespace.
+- Storytelling instead of immediately presenting booking controls.
+- A few beautifully executed scroll interactions rather than dozens of distracting animations.
+- A restrained colour palette that complements the actual property.
+- Smooth transitions that make navigating the website feel like moving through a physical space.
+
+I would approach this as a combination of UX audit, luxury hospitality brand positioning, frontend prototyping and conversion optimisation.
+
+And yes, I can examine the websites and their publicly accessible visual references. I can understand screenshots, images, layouts, typography and design compositions. I can also inspect accessible website code and structure. There is one limitation: I cannot automatically experience every animation exactly as a human browsing the live website would, so screen recordings or screenshots of specific interactions can help me analyse those more accurately.
+
+Let's start by examining the actual websites before deciding what to build.
+
+## 1. Initial assessment of Kaldan Samudhra
+
+I was able to retrieve indexed content from Kaldan's website, although the homepage itself timed out when I attempted to open it directly. So I can assess its content architecture and some of its messaging, but I won't pretend I've verified every visual element or animation on the live page.
+
+Website: [Kaldan Hotels — official website](<https://www.kaldanhotels.com/?utm_source=chatgpt.com>)
+
+One thing I noticed is that Kaldan actually has a lot more interesting material to work with than its digital storytelling might initially suggest.
+
+For example, the website already communicates:
+
+- A 10-acre estate combining Rajasthani architecture, Mughal-inspired elements and the Bay of Bengal.
+  Kaldan Samudhra Palace
+- A traditional Rajasthani welcome, folk performances, palace high tea and sunrise yoga.
+  kaldanhotels.com
+  +1
+- A 144-metre swimming pool, multiple dining experiences and a variety of recreational activities.
+  kaldanhotels.com
+  +1
+- Destination weddings, grand staircases, beachfront lawns and banquet spaces.
+  kaldanhotels.com
+
+My first diagnosis: the opportunity is to transform a collection of hotel facilities into a coherent visual story.
+
+Think about it:
+
+A hotel guest doesn't necessarily want to see a list of 15 activities.
+
+They want to imagine:
+
+- Waking up in a palace overlooking the sea.
+- Walking through grand architecture.
+- Being welcomed with traditional music.
+- Spending an afternoon beside an enormous pool.
+- Having dinner in an atmospheric setting.
+- Watching the sunset at the beach.
+
+Those are experiences, not facilities.
+
+### The current content architecture
+
+Based on the available website content and sitemap, the site has these major sections:
+
+| Section | What it communicates |
+| --- | --- |
+| Home | Property introduction and experiences |
+| About us | Heritage and story |
+| Accommodation | Rooms, suites and villas |
+| Dining | Restaurants and bars |
+| Experiences | Signature hospitality |
+| Activities | Recreation |
+| Weddings | Destination wedding offering |
+| Events | Conferences and events |
+| Offers | Packages and promotions |
+| Gallery | Photography and videos |
+| Location | Getting to the property |
+
+Kaldan Samudhra Palace
+
++1
+
+This is a perfectly reasonable content inventory. I wouldn't necessarily remove sections or radically change the navigation.
+
+I'd change how visitors are introduced to them.
+
+## 2. What I would borrow from your references
+
+I understand the design elements you're describing. In fact, the two reference websites offer complementary approaches.
+
+塔索酒店 索倫托區 - Expedia.com.hk
+
+Hotel du Tasso
+
+[Visit website](<https://www.hoteldutassosorrento.com/?utm_source=chatgpt.com>)
+
+The storytelling approach. Calm, restrained, editorial and atmospheric.
+
+Its actual website introduces the property through the idea of a poetic sense of place, then develops the story through heritage, accommodation and dining.
+
+Luxury Boutique Hotel in Sorrento
+
+Central Luxury Design Loft near University and LKH - Apartments for Rent in Graz, Steiermark, Austria - Airbnb
+
+Casa Momo
+
+[Visit website](<https://www.casamomo.at/?utm_source=chatgpt.com>)
+
+The interaction approach. Expressive typography, generous image compositions, minimal navigation and scroll-led storytelling.
+
+Its homepage uses a minimal introduction and transitions into an apartment showcase.
+
+Boutique Apartments in Graz
+
+Here's how I'd translate your individual references into Kaldan's context.
+
+### A. Hotel du Tasso — storytelling and composition
+
+Desktop - Awwwards
+
+Navigation - Awwwards
+
+Hotel Passalacqua: A New Luxury Hotel Brand Crafted by Positioner at Lake Como | Positioner
+
+Your three references:
+
+- [Hotel Heritage](<https://www.awwwards.com/inspiration/hotel-heritage-hotel-du-tasso?utm_source=chatgpt.com>)
+- [Content Design](<https://www.awwwards.com/inspiration/content-design-hotel-du-tasso?utm_source=chatgpt.com>)
+- [Desktop](<https://www.awwwards.com/inspiration/desktop-hotel-du-tasso?utm_source=chatgpt.com>)
+
+What I'd take from them:
+
+1. Don't introduce the hotel with a booking form as the primary visual experience.
+2. Introduce the hotel with a cinematic visual and one carefully written headline.
+3. Give images room to breathe.
+4. Use editorial layouts where text and photography complement each other.
+5. Keep navigation unobtrusive.
+6. Make booking accessible without allowing it to dominate the entire experience.
+
+### B. Casa Momo — animation and transitions
+
+15 Best Minimalist Web Designs That Stand Out - Mageplaza
+
+Your three references:
+
+- [Hero Animation](<https://www.awwwards.com/inspiration/hero-animation-casa-momo?utm_source=chatgpt.com>)
+- [Headline Scroll Animation](<https://www.awwwards.com/inspiration/headline-scroll-animation-casa-momo?utm_source=chatgpt.com>)
+- [Desktop](<https://www.awwwards.com/inspiration/desktop-casa-momo?utm_source=chatgpt.com>)
+
+What I'd take from them:
+
+1. The hero should feel like entering a different environment.
+2. Images should reveal themselves as the visitor scrolls.
+3. Typography and photography should interact with each other.
+4. Transitions should be continuous and intentional, rather than independent animations scattered everywhere.
+5. The navigation should feel like part of the visual identity.
+
+The Awwwards references also classify the Casa Momo examples as hero/video animation and scroll/typography animation, which supports the direction you're describing.
+
+Awwwards
+
++1
+
+An important distinction: I wouldn't copy either website wholesale. Casa Momo is a boutique apartment property, whereas Kaldan is a large-scale palace resort. Kaldan needs to communicate grandeur, cultural identity and scale. Its visual language should be more cinematic and architectural.
+
+## 3. My proposed creative direction for Kaldan
+
+I'd give the redesign a working creative direction:
+
+# Where Royal Heritage Meets the Sea
+
+PROPOSED CREATIVE DIRECTION · KALDAN SAMUDHRA
+
+Kaldan Samudhra Palace Hotel Mahabalipuram: Reviews, Price, Photos, Address
+
+Kaldan Samudhra Palace, Mahabalipuram - Luxury Escapes IN
+
+5-star Hotels in Mahabalipuram | Kaldan Samudhra Palace
+
+Visual moodboard direction. These are visual references, not a final approved brand palette or official asset selection.
+
+I would combine three identities:
+
+- Royal: Architecture, heritage, symmetry, grand spaces and rich materials.
+- Coastal: The Bay of Bengal, natural light, sea breeze, sand and greenery.
+- Contemporary luxury: Minimal typography, restrained interfaces, sophisticated motion and simplicity.
+
+### Colour palette
+
+I wouldn't immediately use the typical luxury-hotel combination of black and gold.
+
+Kaldan has a much more interesting opportunity: its architecture and surroundings can inspire the colour system.
+
+## Proposed palette
+
+Deep olive#24352F
+
+Muted gold#C1A477
+
+Warm ivory#EAE3D7
+
+Terracotta#A56C51
+
+Ocean blue#293D4A
+
+How I'd use them
+
+- Ivory: Primary page backgrounds.
+- Deep olive: Navigation, footer and darker editorial sections.
+- Muted gold: Small accents, separators and interactive details.
+- Terracotta: Occasional cultural and heritage accents.
+- Ocean blue: Coastal storytelling sections.
+
+These are starting colours for experimentation, not verified colours from Kaldan's existing branding. The final palette should be checked against the hotel's photography, logo and physical interiors.
+
+### Typography
+
+I'd experiment with just two font families.
+
+| Role | Font candidates | Character |
+| --- | --- | --- |
+| Headlines | Cormorant Garamond | Regal, editorial, elegant |
+| Body and UI | Manrope | Sharp, clean, contemporary |
+
+Other possibilities include:
+
+- Headlines: DM Serif Display.
+- Body: Inter or DM Sans.
+
+My preference is Cormorant Garamond + Manrope.
+
+The contrast between the two gives you the combination of royal heritage and modern simplicity you're looking for.
+
+## 4. How I would redesign the homepage
+
+This is the most important part of the exercise.
+
+I would create a homepage that unfolds like a journey through the property.
+
+01 · First impressionCinematic hero
+
+Kaldan Samudhra Palace | BusinessBooky
+
+[businessbooky.com](<https://www.businessbooky.com/business/kaldan-samudhra-palace?utm_source=chatgpt.com>)
+
+# Beyond the Ordinary. Into the Extraordinary.
+
+A full-viewport cinematic video, ideally showing the architecture, ocean, central pool and human scale of the property.
+
+- Minimal logo.
+- Navigation in the top corner.
+- One prominent headline.
+- A subtle scroll indicator.
+- Booking as a restrained secondary action.
+
+02 · Establish the storyAn introduction to the palace
+
+Kaldan Samudhra Palace 𝗕𝗢𝗢𝗞 Mahabalipuram Resort
+
+[makemytrip.com](<https://www.makemytrip.com/hotels/kaldan_samudhra_palace-details-mahabalipuram.html?utm_source=chatgpt.com>)
+
+# A Palace. Three Worlds. One Extraordinary Escape.
+
+An editorial text-and-image section explaining the distinctive combination of Rajasthani heritage, architectural grandeur and the sea.
+
+03 · The accommodationStay like royalty
+
+Top 5 Star Luxury Accommodation Rooms in Mahabalipuram, ECR
+
+[kaldanhotels.com](<https://www.kaldanhotels.com/accommodations?utm_source=chatgpt.com>)
+
+# Spaces That Make Time Stand Still.
+
+Large photography, room categories and an elegant accommodation showcase. Each room should feel like an invitation rather than a product listing.
+
+04 · ExperiencesLife at Kaldan
+
+# Not Just a Stay. A World of Experiences.
+
+An immersive image-led experience covering the pool, cultural performances, dining, wellness and recreation.
+
+05 · Dining and occasionsA taste of royalty
+
+Images - Kaldan Samudhra Palace
+
+[kaldanhotels.com](<https://www.kaldanhotels.com/gallery/images?utm_source=chatgpt.com>)
+
+# Where Every Gathering Becomes a Celebration.
+
+Dining, celebrations, destination weddings and corporate events can have their own distinct visual chapters.
+
+06 · ConversionThe invitation
+
+Amenities of Kaldan Samudhra Palace
+
+[makemytrip.com](<https://www.makemytrip.com/hotels/amenities-of-kaldan_samudhra_palace-details-mahabalipuram.html?utm_source=chatgpt.com>)
+
+# Some Places Are Meant to Be Experienced.
+
+A clear booking call to action, enquiry form and contact information.
+
+This is a proposed information hierarchy, not a claim that these are the current homepage sections in this exact order.
+
+## 5. The animations: choose five and repeat them consistently
+
+I agree with your point about not overloading the website with transitions.
+
+A luxury website should feel smooth, not like a frontend developer is trying to demonstrate every animation library they've learned.
+
+I'd establish a small motion design system.
+
+Deluxe Vista al Mar: Vista al mar - Nobu Hotel Los Cabos
+
+1. Cinematic hero reveal
+
+The initial video fades in, the headline appears with a slight upward movement, and the navigation settles into place.
+
+Use once on the homepage introduction.
+
+Best Storytelling Websites: How to Craft High-End Digital Experiences
+
+2. Scroll-triggered image expansion
+
+Images begin with rounded corners and a smaller composition, then expand towards the viewport edges as visitors scroll into the section.
+
+Use for accommodation, architecture and experiences.
+
+Hotels Landing Page - Awwwards
+
+3. Editorial text reveal
+
+Headlines reveal line by line, with subtle opacity and vertical movement.
+
+Use for major section introductions.
+
+Forestis Hotel Website by Marina on Dribbble
+
+4. Image parallax
+
+Very subtle movement between the image and its container while scrolling.
+
+Use sparingly in large photographic sections.
+
+Desktop Menu - Awwwards
+
+5. Refined navigation transitions
+
+A transparent navigation transforms into a solid or softly translucent navigation on scroll. Menu opening and closing should be smooth.
+
+Use consistently across the website.
+
+### Recommended frontend technologies
+
+| Technology | Purpose |
+| --- | --- |
+| GSAP + ScrollTrigger | Scroll-based animation |
+| Framer Motion / Motion | Interface transitions |
+| Lenis | Optional smooth scrolling |
+| CSS transitions | Hover states and small interactions |
+| Next.js or React | Frontend architecture, depending on the existing stack |
+
+I would not automatically install everything.
+
+For this prototype, GSAP + ScrollTrigger and CSS transitions are probably enough.
+
+Also, don't sacrifice performance for animation. Optimised video, responsive images, lazy loading, mobile-specific video assets, reduced-motion support and sensible animation durations are essential.
+
+A beautiful luxury website that takes eight seconds to load is not a luxury experience.
+
+## 6. Should you inspect the existing website code yourself?
+
+Absolutely. But don't immediately start copying the entire website.
+
+I would make this your next task.
+
+Your goal is to understand what the existing website is built with, what can be reused, and what should be redesigned.
+
+Here's the process I'd follow.
+
+### Step 1: Inspect the website in Chrome DevTools
+
+Open the website on your laptop.
+
+Press:
+
+`F12` or `Ctrl + Shift + I`
+
+Explore these tabs:
+
+| Tab | What to investigate |
+| --- | --- |
+| Elements | HTML structure and DOM hierarchy |
+| Styles | CSS rules, typography, colours and spacing |
+| Network | Images, videos, fonts and external scripts |
+| Sources | Publicly available frontend resources |
+| Performance | Rendering bottlenecks and loading behaviour |
+| Lighthouse | Performance, accessibility, SEO and best practices |
+
+Pay special attention to the Network tab.
+
+Filter by:
+
+- `Img`
+- `Media`
+- `Font`
+- `CSS`
+- `JS`
+
+You may discover that the website already has high-quality photography, but the way it is being displayed is underwhelming.
+
+Or perhaps the hero video really is compressed, improperly sized or poorly encoded.
+
+Don't assume the cause until you've inspected it.
+
+### Step 2: Identify the technology stack
+
+You should figure out:
+
+- Is it WordPress?
+- Is it a custom React application?
+- Is it built with another CMS?
+- Is it using a booking engine?
+- Which external scripts are responsible for reservations?
+- Where are the images and videos hosted?
+
+Useful tools:
+
+- [BuiltWith](<https://builtwith.com/?utm_source=chatgpt.com>) — Technology detection.
+- [Wappalyzer](<https://www.wappalyzer.com/?utm_source=chatgpt.com>) — CMS and framework detection.
+- [PageSpeed Insights](<https://pagespeed.web.dev/?utm_source=chatgpt.com>) — Performance analysis.
+- [Chrome DevTools documentation](<https://developer.chrome.com/docs/devtools/?utm_source=chatgpt.com>) — Frontend inspection.
+
+### Step 3: Create a website audit document
+
+Before touching any code, document the current website.
+
+I'd create a spreadsheet with these columns:
+
+| Page | Existing problem | Proposed improvement | Priority |
+| --- | --- | --- | --- |
+| Homepage | Weak first impression | Cinematic hero | High |
+| Homepage | Insufficient storytelling | Editorial introduction | High |
+| Accommodation | Product-like presentation | Immersive room showcase | High |
+| Experiences | Too much emphasis on individual facilities | Visual experience storytelling | Medium |
+| Navigation | Lacks visual refinement | Minimal floating navigation | Medium |
+| Enquiry | Limited lead capture opportunities | Dedicated enquiry CTA | High |
+
+Include screenshots of each section.
+
+This becomes your evidence when presenting your proposal.
+
+Important: Publicly accessible frontend code is not the same as the website's complete source code. You cannot retrieve its private backend, CMS configuration, database, booking logic or proprietary assets just by inspecting a browser. Don't try to bypass access restrictions. You can build an independent prototype without any of those.
+
+## 7. Your data analytics background is a genuine advantage
+
+This is where I'd try to make your proposal stand out from an ordinary UI redesign.
+
+You're not simply suggesting that the website should look better.
+
+You're suggesting that it should perform better commercially.
+
+Think about what the hotel actually wants from its website:
+
+1. More room reservations.
+2. More wedding enquiries.
+3. More dining enquiries.
+4. More event and conference enquiries.
+5. Better engagement with prospective guests.
+
+You could introduce a measurement framework.
+
+### Website analytics strategy
+
+I'd use Google Analytics 4 and Google Tag Manager, assuming the company permits their implementation.
+
+Track events such as:
+
+| Event | What it tells you |
+| --- | --- |
+| `hero_video_play` | Visitors engaging with the introduction |
+| `hero_video_complete` | Visitors watching the full introduction |
+| `room_view` | Interest in accommodation |
+| `experience_click` | Interest in hotel experiences |
+| `booking_cta_click` | Booking intent |
+| `booking_engine_redirect` | Visitors entering the reservation journey |
+| `enquiry_form_start` | Initial enquiry interest |
+| `enquiry_form_submit` | Successful lead generation |
+| `wedding_enquiry` | Wedding lead generation |
+
+You can then analyse:
+
+- Which sections receive the most engagement?
+- How far down the homepage do visitors scroll?
+- Do visitors actually watch the hero video?
+- Which room categories generate the most interest?
+- Which CTA gets more clicks?
+- How many visitors start but abandon an enquiry?
+- Which traffic sources generate actual bookings?
+
+### Introduce an enquiry experience
+
+I wouldn't force every visitor to book immediately.
+
+Some people are researching a family holiday. Others are planning a wedding six months away. Some may simply want to enquire about a dining experience.
+
+Give them a way to express interest.
+
+For example:
+
+# Let us curate your experience.
+
+Tell us a little about your plans, and our team will help you create a memorable stay.
+
+I'm interested inLeisure stay A leisure stay
+
+A wedding celebration
+
+A dining experience
+
+A corporate event
+
+Expected number of guests2 1–2
+
+3–5
+
+6–10
+
+10+
+
+Preferred date (optional) Select a date
+
+Email address
+
+ Copy sample enquiry Interactive design mockup only. It does not submit information to Kaldan or collect actual leads.
+
+I would place a subtle enquiry CTA throughout the website and a more detailed enquiry form on relevant pages.
+
+One thing: Don't make the homepage enquiry form an obstacle to booking. Booking should remain accessible, and the enquiry should be an alternative route.
+
+## 8. How I would organise your AI agent and development project
+
+You mentioned `skills.md`, MCPs and plugins.
+
+These can be useful, but I wouldn't start there.
+
+First establish the design direction and understand the existing website. Then give your AI agent structured instructions.
+
+I would eventually organise the project like this:
+
+text
+
+```text
+kaldan-redesign/
+│
+├── README.md
+├── skills.md
+│
+├── research/
+│   ├── current-website-audit.md
+│   ├── competitor-analysis.md
+│   ├── visual-references.md
+│   └── ux-opportunities.md
+│
+├── design/
+│   ├── brand-direction.md
+│   ├── colour-palette.md
+│   ├── typography.md
+│   ├── motion-system.md
+│   └── wireframes/
+│
+├── public/
+│   ├── images/
+│   ├── videos/
+│   └── fonts/
+│
+├── src/
+│   ├── components/
+│   ├── sections/
+│   ├── pages/
+│   └── styles/
+│
+└── analytics/
+    ├── event-tracking-plan.md
+    └── conversion-strategy.md
+```
+
+### Tools worth considering
+
+Cursor - AI Code Editor Tool for Faster Development & Developers | itirupati.com
+
+Cursor
+
+[Website](<https://cursor.com/?utm_source=chatgpt.com>)
+
+For inspecting and editing the project with an AI coding assistant.
+
+Collaborez avec Digital Campus Paris |
+
+Figma
+
+[Website](<https://www.figma.com/?utm_source=chatgpt.com>)
+
+For wireframes, visual direction and presenting your proposed layouts.
+
+Playwright Logo PNG Vector (SVG) Free Download
+
+Playwright
+
+[Website](<https://playwright.dev/?utm_source=chatgpt.com>)
+
+For testing responsive layouts, navigation and interactions.
+
+Track nopCommerce with GA4 Analytics | noptech
+
+Google Analytics 4
+
+[Website](<https://analytics.google.com/?utm_source=chatgpt.com>)
+
+For your proposed conversion measurement framework.
+
+Your `skills.md` should eventually explain your design principles, brand direction, approved components, motion rules, coding conventions and performance requirements.
+
+It should not simply say "make the website look premium".
+
+## 9\. What I would actually present to your senior
+
+Here's where I'd be strategic.
+
+Don't walk into your senior's office with a statement that the existing website is bad.
+
+Present it as an opportunity.
+
+I'd prepare three deliverables:
+
+Deliverable 1 — Digital experience audit
+
+- Current website screenshots.
+- Navigation and content architecture.
+- UX observations.
+- Performance observations.
+- Competitor references.
+- Specific improvement opportunities.
+
+Deliverable 2 — Proposed design direction
+
+- Brand moodboard.
+- Colour palette.
+- Typography.
+- Photography direction.
+- Motion design system.
+- Homepage wireframe.
+
+Deliverable 3 — Working frontend prototype
+
+A functioning homepage that demonstrates:
+
+- Cinematic introduction.
+- Redesigned navigation.
+- Editorial storytelling.
+- Accommodation showcase.
+- Scroll-triggered animations.
+- Experience gallery.
+- Enquiry experience.
+- Responsive mobile layout.
+
+Make it clear that this is a design concept, not a replacement for the production website.
+
+You can even present two versions of the homepage: the current experience and your proposed experience.
+
+That makes the improvement much easier to understand.
+
+## 10\. What I want you to do next
+
+I wouldn't start coding yet.
+
+I want to get a better understanding of the existing website so we don't build an impressive-looking prototype that ignores its actual technical architecture.
+
+There are two things I'd particularly like you to investigate:
+
+First: the current website.
+
+Open Kaldan on your laptop and capture:
+
+1. The initial homepage view.
+2. The homepage after scrolling through its major sections.
+3. The booking interface.
+4. The navigation when opened.
+5. The accommodation page.
+6. The website on mobile, if possible.
+
+Screen recordings are especially helpful for understanding the transitions you dislike.
+
+Second: the frontend architecture.
+
+Open DevTools and tell me what you find under Network and Sources, particularly the frameworks, CSS files, image/video assets and any booking-engine integrations.
+
+If you can share screenshots or the publicly accessible HTML/CSS you inspect, I can help you interpret them.
+
+## One final thought
+
+I think your biggest opportunity is to make Kaldan's digital experience communicate something that its physical property already possesses.
+
+The hotel has a distinctive story: a palace, Rajasthani heritage, architectural grandeur and the ocean.
+
+Rather than making another generic luxury-hotel website, make the website feel like an invitation to enter that palace.
+
+My recommendation is that we work in this order:
+
+1. Audit the existing website.
+2. Establish the brand and visual direction.
+3. Build a homepage wireframe.
+4. Define the reusable animation system.
+5. Build the frontend prototype.
+6. Develop the analytics and conversion proposal.
+
+Let's begin with the existing website's structure. Can you open Kaldan in Chrome on your laptop and share a screenshot of its entire homepage, from the first screen through to the footer? That will let us move from an initial strategic assessment to a much more precise section-by-section redesign.
