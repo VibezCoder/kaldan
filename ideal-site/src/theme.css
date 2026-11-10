@@ -33,6 +33,15 @@
 }
 *,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
 html{scroll-behavior:smooth}
+/* Lenis compatibility — mirrors lenis/dist/lenis.css (the Kaldan build imports
+   exactly this). Without it, CSS smooth-scroll intercepts Lenis's programmatic
+   scrollTo, native scroll events sync targetScroll back to ~0 and every
+   smooth-scroll animation cancels: the page never moves. */
+html.lenis,html.lenis body{height:auto}
+.lenis.lenis-smooth{scroll-behavior:auto!important}
+.lenis.lenis-smooth [data-lenis-prevent]{overscroll-behavior:contain}
+.lenis.lenis-stopped{overflow:hidden}
+.lenis.lenis-smooth iframe{pointer-events:none}
 body{font-family:var(--font-ui);color:var(--ink);background:var(--sand);line-height:var(--lh-body);-webkit-font-smoothing:antialiased}
 img,svg,video{display:block;max-width:100%}
 a{color:inherit;text-decoration:none}
@@ -220,3 +229,33 @@ h2.display{font-size:var(--fs-h2)}
 
 /* ── browser note ─────────────────────────────────────── */
 .browser-note{margin-top:1.4rem;font-size:var(--fs-small);color:var(--muted);font-style:italic}
+
+/* ── micro-interactions ──────────────────────────────── */
+.room-card,.gather,.voice,.offer,.exp-item{will-change:transform}
+.room-card{transition:transform var(--dur-ui) var(--ease-out),box-shadow var(--dur-ui) var(--ease-out)}
+.room-card:hover{transform:translateY(-6px);box-shadow:0 16px 36px rgba(10,28,38,.30)}
+.room-card:hover .ph{transform:scale(1.045)}
+.gather{transition:transform var(--dur-ui) var(--ease-out),box-shadow var(--dur-ui) var(--ease-out)}
+.gather:hover{transform:translateY(-4px);box-shadow:0 12px 30px rgba(18,37,46,.16)}
+.gather:hover .ph{transform:scale(1.03)}
+.voice{transition:transform var(--dur-ui) var(--ease-out),border-color var(--dur-ui) var(--ease-out)}
+.voice:hover{transform:translateY(-3px);border-color:rgba(217,116,74,.55)}
+.offer{transition:transform var(--dur-ui) var(--ease-out),border-color var(--dur-ui) var(--ease-out)}
+.offer:hover{transform:translateY(-3px);border-color:var(--coral)}
+.exp-item{transition:background var(--dur-ui) var(--ease-out)}
+.exp-item:hover{background:rgba(217,116,74,.05)}
+.exp-item:hover .n{transform:translateX(4px)}
+.exp-item .n{transition:transform var(--dur-ui) var(--ease-out)}
+.room-card .ph,.gather .ph{transition:transform var(--dur-ui) var(--ease-out);transform-origin:center}
+.room-card .ph,.gather .ph{overflow:hidden}
+[data-parallax] .ph,.ph[data-parallax]{will-change:transform}
+.button:active{transform:translateY(1px) scale(.99)}
+.site-nav a{position:relative}
+.site-nav a::after{content:"";position:absolute;left:0;right:100%;bottom:-4px;height:1.5px;background:currentColor;transition:right var(--dur-ui) var(--ease-out)}
+.site-nav a:hover::after,.site-nav a[aria-current="page"]::after{right:0}
+.invitation-meta a,.footer a{transition:color var(--dur-micro) var(--ease-out)}
+.hero-ctas .button{transition:background var(--dur-micro) var(--ease-out),transform var(--dur-micro) var(--ease-out),box-shadow var(--dur-micro) var(--ease-out)}
+.button:hover{box-shadow:0 8px 22px rgba(163,69,31,.35)}
+@media (prefers-reduced-motion:reduce){
+  .room-card:hover,.gather:hover,.voice:hover,.offer:hover,.exp-item:hover .n{transform:none}
+}

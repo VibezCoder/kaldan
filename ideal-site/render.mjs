@@ -53,6 +53,9 @@ const head = (page, prefix) => `<!doctype html><html lang="en"><head><meta chars
 <meta name="theme-color" content="#0d2430">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;0,500;1,400&family=Manrope:wght@400;600;700&display=swap" rel="stylesheet">
+<script defer src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/lenis@1.1.14/dist/lenis.min.js"></script>
 <link rel="stylesheet" href="${prefix}src/theme.css"><script defer src="${prefix}src/main.js"></script></head><body>`;
 
 /* ── home ─────────────────────────────────────────────────── */
@@ -76,7 +79,7 @@ function home() {
       ${s.paragraphs.map(p => `<p>${esc(p)}</p>`).join('')}
       <div class="timeline"><div><strong>1978</strong> — P.M. &amp; Mrs Dharmalingam build the first two Garden View rooms on procured land.</div><div><strong>The estate grows</strong> — more rooms, amenities, tidied gardens — at the family's own pace, on the family's own ECR acreage.</div><div><strong>Today</strong> — son Bose Dharmalingam leads the Ideal Group: this resort plus Ideal River View Resort, Thanjavur; the proprietors present on both properties.</div></div>
     </div>
-    <div class="story-visual" data-rise>${image('heritage', 'Resort photography pending approval: the original garden wing & founder era', 'garden')}<p class="story-caption">Image slot reserved for hotel-approved photography: founder era / garden wing.</p></div>
+    <div class="story-visual" data-rise>${image('heritage', 'Resort photography pending approval: the original garden wing & founder era', 'garden', true)}<p class="story-caption">Image slot reserved for hotel-approved photography: founder era / garden wing.</p></div>
   </div></section>
 
   <section class="section" data-theme="dark"><div class="wrap">
@@ -94,7 +97,7 @@ function home() {
   </div></section>
 
   <section class="section wrap" data-theme="light" id="dining"><div class="story-grid">
-    <div class="story-visual" data-rise>${image('dining', 'Resort photography pending approval: the breakfast table', 'dusk')}<p class="story-caption">Image slot reserved for hotel-approved photography: breakfast service.</p></div>
+    <div class="story-visual" data-rise>${image('dining', 'Resort photography pending approval: the breakfast table', 'dusk', true)}<p class="story-caption">Image slot reserved for hotel-approved photography: breakfast service.</p></div>
     <div class="story-copy" data-rise><p class="eyebrow">03 / At the table</p>
       <h2 class="display">Breakfast is<br><em>the second favourite beach here.</em></h2>
       <p class="lede">${esc(content.dining.note)}</p>
@@ -147,7 +150,7 @@ function rooms() {
   return `<section class="section wrap" data-theme="light"><div class="story-grid">
     <div class="story-copy" data-rise><p class="eyebrow">Stays</p><h2 class="display">Every window chosen for you.<br><em>Mostly, for the sea.</em></h2>
     <p class="lede">Categories below match the resort's own inventory on Booking.com (verified 2026-11-10). Rates are live on the booking engine — this concept does not quote prices, so the resort keeps full rate control.</p></div>
-    <div class="story-visual" data-rise>${image('rooms-hero', 'Resort photography pending approval: a sea-facing room', 'sea')}<p class="story-caption">Image slot reserved for hotel-approved photography.</p></div>
+    <div class="story-visual" data-rise>${image('rooms-hero', 'Resort photography pending approval: a sea-facing room', 'sea', true)}<p class="story-caption">Image slot reserved for hotel-approved photography.</p></div>
   </div>
   <div class="room-grid" data-filter-scope>
     ${content.rooms.map((r, idx) => `<article class="room-card" data-filter-item data-category="rooms" data-rise>
@@ -186,7 +189,7 @@ function aboutUs() {
     <div class="story-copy" data-rise><p class="eyebrow">Our story</p><h2 class="display">Since 1978,<br><em>the family at the shore.</em></h2>
     ${s.paragraphs.map(p => `<p>${esc(p)}</p>`).join('')}
     <div class="timeline"><div><strong>1978</strong> — Two Garden View rooms; the Dharmalingams move in over their work.</div><div><strong>12 acres</strong> — the estate grows room by room, garden by garden, at the family's pace.</div><div><strong>Ideal Group</strong> — Ideal Beach Resort, Mahabalipuram + Ideal River View Resort, Thanjavur.</div><div><strong>Legacy trust asset</strong> — 10,511 Google reviews (measured 2026-11-10): the corridor's largest accumulated guest record.</div></div></div>
-    <div class="story-visual" data-rise>${image('about', 'Resort photography pending approval: the founders & the family table', 'garden')}</div>
+    <div class="story-visual" data-rise>${image('about', 'Resort photography pending approval: the founders & the family table', 'garden', true)}</div>
   </div></section>`;
 }
 
