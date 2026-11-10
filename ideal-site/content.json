@@ -1,0 +1,93 @@
+{
+  "identity": {
+    "name": "Ideal Beach Resort",
+    "tagline": "A private beach, kept in the family since 1978",
+    "address": "#164, ECR Road, Devaneri Village, 603104 Mahabalipuram, Tamil Nadu",
+    "phone1": "+91 44 2449 5161",
+    "phone1b": "+91 44 2449 5164",
+    "phone2": "+91 44 2744 2240",
+    "email": "reservation@idealresort.com",
+    "bookingEngine": "https://www.swiftbook.io/inst/#home?propertyId=762MTwm3aRnGX73Yci3PKRVGT6dwwndjKZA7SyKnUZEQ0OQ==",
+    "facebook": "https://www.facebook.com/trulyideal/",
+    "instagram": "https://www.instagram.com/idealbeach/",
+    "sisterResort": {
+      "name": "Ideal River View Resort, Thanjavur",
+      "note": "The Ideal Group's sister resort on the Kaveri river"
+    },
+    "trustLine": "Rated by 10,000+ guests on Google · family-run since 1978",
+    "sources": ["idealresort.com home + /about-us", "booking.com/hotel/in/ideal-beach-resort-mahabalipuram.html", "agoda.com listing (address field)"]
+  },
+  "story": {
+    "founded": "1978",
+    "founder": "P.M. Dharmalingam",
+    "paragraphs": [
+      "Established in 1978, Ideal Beach Resort was founded by renowned tea planter P.M. Dharmalingam. Of Sri Lankan origin, Mr Dharmalingam moved to India with a vision of delivering diverse heights of hospitality.",
+      "He embarked to Mahabalipuram — its cultural town, approachable locals and rich historical sites helped solidify the decision. Having procured 12 acres of land, Mr and Mrs Dharmalingam set about building, starting with two rooms — now known as the Garden View Rooms.",
+      "With the help of their son, Mr Bose Dharmalingam, the resort is now known as the Ideal Group of Resorts — family-run, with the proprietors personally present at both properties, and a sister resort in Thanjavur, Ideal River View Resort."
+    ],
+    "source": "idealresort.com/about-us"
+  },
+  "rooms": [
+    {
+      "slug": "double-garden-view",
+      "name": "Double Room, Garden View",
+      "beds": "1 full bed",
+      "blurb": "Where the resort began — the first rooms built on the estate in 1978, opening onto the garden side of the 12 acres.",
+      "feature": "Garden outlook"
+    },
+    {
+      "slug": "deluxe-twin",
+      "name": "Deluxe Twin Room",
+      "beds": "2 twin beds",
+      "blurb": "Roomy twin configuration for friends travelling together or families who want the same room and separate beds.",
+      "feature": "Two full beds, extra space"
+    },
+    {
+      "slug": "villa-sea-side",
+      "name": "Villa — Sea Side",
+      "beds": "1 queen bed",
+      "blurb": "The villa side of the property sets you a step from the sand, with the sea itself as the neighbour that never leaves.",
+      "feature": "Closest to the private beach"
+    }
+  ],
+  "roomNote": "Room categories as listed by the property's own Booking.com inventory on 2026-11-10. A guest review (Feb 2025) notes 'all rooms facing beach' — confirm final room mapping with the resort before publishing.",
+  "dining": {
+    "name": "The Garden Table",
+    "note": "Dining at the resort is repeatedly named the best part of a stay in guest reviews.",
+    "quotes": [
+      { "who": "Ramesh, India", "when": "Booking.com, verified stay", "text": "Breakfast was excellent and we had multiple options… Especially the bakery items." },
+      { "who": "Leela, United States", "when": "Booking.com, verified stay", "text": "Beautiful tranquility by the beach while close by to all the sightseeing destinations! Breakfast was absolutely amazing." },
+      { "who": "manjula m", "when": "TripAdvisor, Feb 2026", "text": "The food was excellent and if you give your order in advance, they can prepare it for you. Breakfast was a lavish spread." }
+    ]
+  },
+  "experiences": [
+    { "n": "01", "title": "The private beach", "text": "Your own stretch of Bay of Bengal sand, with a lifeguard on duty all day, every day. Guests call it the reason they return.", "quote": "Murugavel: 'The private beach and swimming pool is really good. The lifeguard is present all the time.'" },
+    { "n": "02", "title": "The long pool", "text": "A full swimming pool set in the gardens — long laps or long hours, both equally welcome.", "quote": "P. Pradeep: 'Enjoyed a lot at the pool… Room was neat and clean.'" },
+    { "n": "03", "title": "Temples at your pace", "text": "The UNESCO-listed Shore Temple and Mahabalipuram's monuments are 3.9 km away — close enough for morning visits, far enough for quiet afternoons.", "quote": "Distance from the property's Booking.com listing, 2026-11-10" }
+  ],
+  "gatherings": {
+    "weddings": { "title": "Weddings on the sand", "text": "Function spaces by the sea and in the gardens, with the resort's own wedding team. The resort's Instagram maintains a dedicated Weddings showcase." },
+    "conferences": { "title": "Conferences by the tide", "text": "Corporate and conference hosting has its own dedicated showcase on the resort's channels. Guests note the resort hosts functions regularly — event-day room assignment is handled in advance." }
+  },
+  "offersNote": "The resort's live offers page is currently empty; offer inventory to be published jointly with the hotel. Sample cards below mark where real offers will be placed.",
+  "voices": [
+    { "who": "Mohammed, India", "when": "Booking.com verified stay", "text": "It's an amazing beach. Very nice view. Very good service. Staff is very very good." },
+    { "who": "Lenka", "when": "TripAdvisor, Feb 2025", "text": "Amazing property located at the beach. Fantastic atmosphere, you can sit till late and watch the waves." },
+    { "who": "manjula m", "when": "TripAdvisor, Feb 2026", "text": "We were a group of 12 senior citizens, and it was so comfortable here." },
+    { "who": "Mari338", "when": "TripAdvisor, Jan 2025", "text": "My room was on the ground floor, very large, cozy and clean. A small veranda with two armchairs, facing a beautiful garden." }
+  ],
+  "competitiveBoard": [
+    { "name": "Kaldan Samudhra Palace", "rating": "4.9", "reviews": "2,702", "from": "23,622", "tier": "₹23,000+" },
+    { "name": "Four Points by Sheraton", "rating": "4.8", "reviews": "1,574", "from": "11,799", "tier": "₹11–12k" },
+    { "name": "Welcomhotel by ITC", "rating": "4.7", "reviews": "1,768", "from": "9,027", "tier": "₹9k" },
+    { "name": "Radisson Blu Temple Bay", "rating": "4.4", "reviews": "4,807", "from": "19,470", "tier": "₹19k+" },
+    { "name": "Mamalla Beach Resort", "rating": "4.4", "reviews": "1,136", "from": "3,242", "tier": "₹3k" },
+    { "name": "Ideal Beach Resort", "rating": "4.1", "reviews": "1,208", "from": "6,002", "tier": "₹6k", "us": true },
+    { "name": "Chariot Beach Resort", "rating": "4.0", "reviews": "1,854", "from": "12,007", "tier": "₹12k" }
+  ],
+  "notesForBuild": {
+    "photography": "No resort photography is used in this concept. Every visual is a styled placeholder pending the hotel's approval of real images — the design is complete without them, and swapping photography in is a labelled asset swap.",
+    "bookingDisclaimer": "No booking or payment is taken on this concept website; all reserve actions route to the resort's own live SwiftBook engine.",
+    "consent": "Analytics events fire only after a hotel-approved consent manager sets window.idealAnalyticsConsent = true. Event names: booking_start, cta_click, scroll_depth."
+  }
+}
