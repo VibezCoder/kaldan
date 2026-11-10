@@ -65,7 +65,7 @@
 | Channel | Fact |
 |---|---|
 | Instagram @idealbeach | **1,525 followers** · follows 0 · near-daily posting (Nov 7, 5, 3×2, Oct 30×2, 27, 19×2, 18, 16) · content predominantly **poster/graphic posts** ("may be an image of text/poster/card"), occasional reels incl. collabs (Sky1 Drone Shows) · highlights: Collab Post, Special Features, Conferences, Special Offers, Weddings, Rooms · Threads linked |
-| Facebook @trulyideal | Page exists (title: "Ideal Beach Resort, Mahabalipuram") — body not machine-readable logged-out (login wall) — pending manual |
+| **Facebook @trulyideal** | **895 followers** (manual check by analyst, 2026-11-10) |
 | YouTube | None found linked from site (dead Twitter link instead) — no active channel found (pending confirmation) |
 
 **Social contrast vs Kaldan (2026-11-09 baseline):** 1,525 vs 75,600 followers — **≈2% of Kaldan's audience** — despite Ideal posting at a similar cadence.
@@ -76,7 +76,11 @@
 
 ## 7. Google Business Profile rating
 
-- Maps side panel does not populate unauthenticated in this environment (same limitation as Kaldan's map on 2026-11-09) — **pending 30-second manual check**.
+| Fact | Value | Source |
+|---|---|---|
+| Rating | **4.2 / 5** | manual check (Maps), 2026-11-10 |
+| Review volume | **10,511 reviews** — their **largest review base on any platform** (vs 2,779 Agoda, 1,208 TripAdvisor, 295 Booking) | manual check |
+| Category label on Google | "**3-star hotel**" | manual check |
 
 ## 8. The live competitive board (TripAdvisor "10 best hotels", Mahabalipuram, 2026-11-10)
 
@@ -111,4 +115,4 @@
 | Service / food / staff? | **Contradicting evidence.** Staff 8.5 (their 2nd-best Booking sub-score), Service 4.2, and reviews repeatedly praise staff and food — service is an asset, not the gap. |
 | Festive discounts / benefits? | **Not assessable publicly** — offers page is live but empty; requires hotel-side data. |
 
-*Pending items to close the pack: Google Maps rating (manual), Facebook follower count (manual), MakeMyTrip/Trip.com scores, YouTube channel confirmation.*
+*Pending items to close the pack: ~~Google Maps rating~~ (closed: 4.2/10,511) · ~~Facebook follower count~~ (closed: 895) · MakeMyTrip/Trip.com scores, YouTube channel confirmation.*
