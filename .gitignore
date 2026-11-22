@@ -1,6 +1,10 @@
 # Dependencies
 node_modules/
 
+# Secrets
+.env
+.env.*
+
 # Build outputs (rebuildable with npm run build)
 dist/
 kaldan-site/dist/
