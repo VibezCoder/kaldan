@@ -1,5 +1,7 @@
 # Kaldan Samudhra — premium website concept
 
+**Live concept:** https://kaldan-samudhra.onrender.com/
+
 The current website is **kaldan-site/**, not the older single-page prototype. This is an independent internal-presentation concept, not Kaldan's official website.
 
 ## Open the current website
